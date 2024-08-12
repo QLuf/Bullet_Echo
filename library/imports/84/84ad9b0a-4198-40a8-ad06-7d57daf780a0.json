@@ -1,0 +1,80 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "atk_around.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "atk_down01 (Copy)": {
+      "__uuid__": "eb1ad7c7-2c27-4eca-a418-b785943a0114"
+    },
+    "atk_down02 (Copy)": {
+      "__uuid__": "a92a8588-722a-484f-8372-95bc71c2272b"
+    },
+    "atk_down03 (Copy)": {
+      "__uuid__": "61fa0294-c49f-4854-b61d-683fa13c1c02"
+    },
+    "atk_down04 (Copy)": {
+      "__uuid__": "55796bf4-a28a-4652-99a6-deae0f0e47b5"
+    },
+    "atk_down05 (Copy)": {
+      "__uuid__": "030e42fe-b225-4104-8c87-0dbcf01a0b45"
+    },
+    "atk_down06 (Copy)": {
+      "__uuid__": "3f5ab27c-1c23-41cd-9bed-b6c1b5c0a354"
+    },
+    "atk_down07 (Copy)": {
+      "__uuid__": "8861059c-26cf-447c-ab59-c2778e4e094e"
+    },
+    "atk_down08 (Copy)": {
+      "__uuid__": "aedf4349-8fda-479d-8fac-c8ef34671150"
+    },
+    "atk_down09 (Copy)": {
+      "__uuid__": "634d9f97-2ca0-4254-8d2e-2f1d0518c5d6"
+    },
+    "atk_down10 (Copy)": {
+      "__uuid__": "255ce360-c30f-4ae9-b8a8-283acbe63006"
+    },
+    "atk_down11 (Copy)": {
+      "__uuid__": "f3562a9f-ecc1-4404-918c-6ead5029f4aa"
+    },
+    "atk_round00 (Copy)": {
+      "__uuid__": "de802122-0171-4c0c-a0a7-711a97b4f253"
+    },
+    "atk_round01 (Copy)": {
+      "__uuid__": "2d44e71b-6410-4e37-bf1d-31a99148bd0c"
+    },
+    "atk_round02 (Copy)": {
+      "__uuid__": "a442377a-23c2-4eb8-bd39-f549d354ce42"
+    },
+    "atk_round03 (Copy)": {
+      "__uuid__": "399d7366-805f-4224-9136-f1973cbd2a24"
+    },
+    "atk_round04 (Copy)": {
+      "__uuid__": "5de8da14-59a5-4ca5-90d8-863b312690d6"
+    },
+    "atk_round05 (Copy)": {
+      "__uuid__": "4c5863c4-9ff4-4666-9001-89d65a85a427"
+    },
+    "atk_round06 (Copy)": {
+      "__uuid__": "b2022a41-a66a-4bdd-b668-17578c5553e9"
+    },
+    "atk_round07 (Copy)": {
+      "__uuid__": "c927a611-a00e-4b75-bd67-1d535cfa0fef"
+    },
+    "atk_round08 (Copy)": {
+      "__uuid__": "7e9c653c-63ba-4f8a-92bd-f3181e1807a7"
+    },
+    "atk_round09 (Copy)": {
+      "__uuid__": "012937ce-cfd7-4f51-b713-31b919651f17"
+    },
+    "atk_round10 (Copy)": {
+      "__uuid__": "06901432-6a59-4780-9933-7581dbb1e933"
+    },
+    "atk_round11 (Copy)": {
+      "__uuid__": "1c9629aa-91ed-43a0-81c1-960f7d2c6954"
+    },
+    "atk_round12 (Copy)": {
+      "__uuid__": "4374677d-bf67-4a72-b90b-4ed68f6ed3ae"
+    }
+  }
+}

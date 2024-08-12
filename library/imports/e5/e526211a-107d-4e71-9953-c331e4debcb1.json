@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Eff_Ability_SlashSword_Iron_Violet",
+    "texture": "f89bac2d-4b1a-4ebf-96a9-e4ece956b5e3",
+    "atlas": "",
+    "rect": [
+      2,
+      4,
+      381,
+      376
+    ],
+    "offset": [
+      -1.5,
+      2
+    ],
+    "originalSize": [
+      388,
+      388
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

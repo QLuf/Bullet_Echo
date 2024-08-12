@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "GroundTile_2_20_",
+    "texture": "42272c57-4f8d-4c52-a73f-48be58314fbd",
+    "atlas": "",
+    "rect": [
+      5,
+      36,
+      62,
+      32
+    ],
+    "offset": [
+      0,
+      -16
+    ],
+    "originalSize": [
+      72,
+      72
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

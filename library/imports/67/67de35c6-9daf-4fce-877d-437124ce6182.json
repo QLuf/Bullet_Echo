@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bongnuoc",
+    "texture": "53d80f66-3ae6-49a5-9014-2bea9b8356b0",
+    "atlas": "",
+    "rect": [
+      6,
+      8,
+      286,
+      286
+    ],
+    "offset": [
+      -1,
+      -1
+    ],
+    "originalSize": [
+      300,
+      300
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

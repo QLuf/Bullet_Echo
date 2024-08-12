@@ -1,0 +1,26 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "fx_impact.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "explosion01_00": {
+      "__uuid__": "131cefdd-a161-41ca-991d-02e009969278"
+    },
+    "explosion01_01": {
+      "__uuid__": "b385c691-be07-4ab3-9e51-cbb405cf64c8"
+    },
+    "explosion01_02": {
+      "__uuid__": "caa022a1-5c2b-4013-a28e-f6395fa9526b"
+    },
+    "explosion01_03": {
+      "__uuid__": "839e98e2-84be-4886-ad08-eec496f9711f"
+    },
+    "explosion01_04": {
+      "__uuid__": "b92f56a4-cc6c-44de-bfe1-b623a5c7dc8d"
+    },
+    "explosion01_05": {
+      "__uuid__": "a187e727-97bf-4c27-ad6a-7f218d59d9bd"
+    }
+  }
+}

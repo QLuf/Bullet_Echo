@@ -1,0 +1,20 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "3008_Chimera_Atk-1.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "5": {
+      "__uuid__": "8afa34ca-9428-4d04-9409-68631695aba0"
+    },
+    "6": {
+      "__uuid__": "7753ea5f-e24d-4ae4-840e-6f07c65c0106"
+    },
+    "7": {
+      "__uuid__": "0307ea99-18ed-4c77-86bb-a53021656e4f"
+    },
+    "8": {
+      "__uuid__": "c1471947-47cf-4454-9ffd-b2e5b67a5b4a"
+    }
+  }
+}

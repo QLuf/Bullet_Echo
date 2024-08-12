@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Fire_Start06",
+    "texture": "d596f372-b073-437a-bc95-20b1e6524efc",
+    "atlas": "83ccffb9-b7ae-4116-b62d-e234b8d30ed7",
+    "rect": [
+      840,
+      0,
+      168,
+      200
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      168,
+      200
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

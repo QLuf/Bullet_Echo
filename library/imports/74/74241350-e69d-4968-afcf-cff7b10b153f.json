@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "char_Kazetsu_anim_move2_3(8)",
+    "texture": "15baa859-72a0-4b90-bc58-b8e68bd42252",
+    "atlas": "3bf65b78-c9d5-4807-81de-613902cfd6f8",
+    "rect": [
+      0,
+      138,
+      47,
+      69
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      47,
+      69
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

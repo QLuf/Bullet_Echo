@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mo quang",
+    "texture": "d53f727c-2cbf-4cf9-922e-cfdf5956d19d",
+    "atlas": "",
+    "rect": [
+      71,
+      46,
+      118,
+      85
+    ],
+    "offset": [
+      6.5,
+      10.5
+    ],
+    "originalSize": [
+      247,
+      198
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

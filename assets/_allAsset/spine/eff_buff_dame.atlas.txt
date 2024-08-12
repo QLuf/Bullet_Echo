@@ -1,0 +1,111 @@
+
+eff_buff_dame.png
+size: 1906,498
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: true
+  xy: 2, 240
+  size: 256, 236
+  orig: 256, 236
+  offset: 0, 0
+  index: -1
+Layer 11
+  rotate: true
+  xy: 478, 240
+  size: 256, 236
+  orig: 256, 236
+  offset: 0, 0
+  index: -1
+Layer 13
+  rotate: false
+  xy: 518, 2
+  size: 256, 236
+  orig: 256, 236
+  offset: 0, 0
+  index: -1
+Layer 15
+  rotate: true
+  xy: 716, 240
+  size: 256, 236
+  orig: 256, 236
+  offset: 0, 0
+  index: -1
+Layer 17
+  rotate: false
+  xy: 776, 2
+  size: 256, 236
+  orig: 256, 236
+  offset: 0, 0
+  index: -1
+Layer 19
+  rotate: true
+  xy: 954, 240
+  size: 256, 236
+  orig: 256, 236
+  offset: 0, 0
+  index: -1
+Layer 21
+  rotate: false
+  xy: 1034, 2
+  size: 256, 236
+  orig: 256, 236
+  offset: 0, 0
+  index: -1
+Layer 23
+  rotate: true
+  xy: 1192, 240
+  size: 256, 236
+  orig: 256, 236
+  offset: 0, 0
+  index: -1
+Layer 25
+  rotate: false
+  xy: 1292, 2
+  size: 256, 236
+  orig: 256, 236
+  offset: 0, 0
+  index: -1
+Layer 27
+  rotate: true
+  xy: 1430, 240
+  size: 256, 236
+  orig: 256, 236
+  offset: 0, 0
+  index: -1
+Layer 29
+  rotate: false
+  xy: 1550, 2
+  size: 256, 236
+  orig: 256, 236
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: false
+  xy: 2, 2
+  size: 256, 236
+  orig: 256, 236
+  offset: 0, 0
+  index: -1
+Layer 5
+  rotate: true
+  xy: 240, 240
+  size: 256, 236
+  orig: 256, 236
+  offset: 0, 0
+  index: -1
+Layer 7
+  rotate: false
+  xy: 260, 2
+  size: 256, 236
+  orig: 256, 236
+  offset: 0, 0
+  index: -1
+Layer 9
+  rotate: true
+  xy: 1668, 240
+  size: 256, 236
+  orig: 256, 236
+  offset: 0, 0
+  index: -1

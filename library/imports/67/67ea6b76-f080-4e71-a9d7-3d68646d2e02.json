@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "barrel_water",
+    "texture": "ac72db6a-9add-45cd-b84d-aa7f51c9d788",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      35,
+      41
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      35,
+      41
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

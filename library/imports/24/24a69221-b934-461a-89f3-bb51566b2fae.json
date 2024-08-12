@@ -1,0 +1,17 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "golem_tower_lv4_celestial_fx",
+  "_objFlags": 0,
+  "_native": ".bin",
+  "_skeletonJson": null,
+  "_atlasText": "\ngolem_tower_lv4_celestial_fx.png\nsize: 1000,436\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\naura (160)\n  rotate: false\n  xy: 0, 182\n  size: 254, 254\n  orig: 256, 256\n  offset: 1, 2\n  index: -1\ndown/2\n  rotate: false\n  xy: 256, 88\n  size: 226, 167\n  orig: 241, 246\n  offset: 12, 0\n  index: -1\ndown/3\n  rotate: false\n  xy: 499, 263\n  size: 241, 173\n  orig: 241, 246\n  offset: 0, 0\n  index: -1\ndown/4\n  rotate: false\n  xy: 0, 1\n  size: 241, 179\n  orig: 241, 246\n  offset: 0, 0\n  index: -1\ndown/5\n  rotate: false\n  xy: 256, 257\n  size: 241, 179\n  orig: 241, 246\n  offset: 0, 0\n  index: -1\ndown/6\n  rotate: false\n  xy: 742, 261\n  size: 235, 175\n  orig: 241, 246\n  offset: 3, 0\n  index: -1\ndown/7\n  rotate: false\n  xy: 399, 5\n  size: 147, 81\n  orig: 241, 246\n  offset: 50, 48\n  index: -1\neff_light_rock\n  rotate: false\n  xy: 595, 157\n  size: 137, 104\n  orig: 137, 104\n  offset: 0, 0\n  index: -1\nfx_char_mark\n  rotate: false\n  xy: 915, 30\n  size: 82, 87\n  orig: 102, 102\n  offset: 10, 9\n  index: -1\nr3\n  rotate: false\n  xy: 639, 3\n  size: 33, 32\n  orig: 33, 33\n  offset: 0, 1\n  index: -1\nskill/10\n  rotate: false\n  xy: 863, 155\n  size: 113, 104\n  orig: 113, 166\n  offset: 0, 28\n  index: -1\nskill/11\n  rotate: false\n  xy: 724, 82\n  size: 97, 64\n  orig: 113, 166\n  offset: 3, 28\n  index: -1\nskill/2\n  rotate: true\n  xy: 785, 8\n  size: 72, 37\n  orig: 113, 166\n  offset: 17, 124\n  index: -1\nskill/3\n  rotate: false\n  xy: 639, 37\n  size: 63, 36\n  orig: 113, 166\n  offset: 25, 123\n  index: -1\nskill/4\n  rotate: false\n  xy: 914, 119\n  size: 58, 34\n  orig: 113, 166\n  offset: 28, 122\n  index: -1\nskill/5\n  rotate: false\n  xy: 548, 80\n  size: 45, 26\n  orig: 113, 166\n  offset: 28, 125\n  index: -1\nskill/6\n  rotate: true\n  xy: 595, 75\n  size: 80, 127\n  orig: 113, 166\n  offset: 12, 31\n  index: -1\nskill/7\n  rotate: true\n  xy: 243, 5\n  size: 81, 154\n  orig: 113, 166\n  offset: 13, 12\n  index: -1\nskill/8\n  rotate: false\n  xy: 484, 108\n  size: 109, 147\n  orig: 113, 166\n  offset: 2, 19\n  index: -1\nskill/9\n  rotate: true\n  xy: 734, 148\n  size: 111, 127\n  orig: 113, 166\n  offset: 1, 23\n  index: -1\nskill/g1\n  rotate: true\n  xy: 724, 0\n  size: 80, 59\n  orig: 113, 166\n  offset: 11, 3\n  index: -1\nskill/g2\n  rotate: false\n  xy: 548, 8\n  size: 89, 65\n  orig: 113, 166\n  offset: 7, 0\n  index: -1\nskill/g3\n  rotate: false\n  xy: 823, 83\n  size: 89, 63\n  orig: 113, 166\n  offset: 7, 1\n  index: -1\nskill/g4\n  rotate: false\n  xy: 824, 18\n  size: 89, 63\n  orig: 113, 166\n  offset: 7, 1\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "4d0e7a84-f408-47a2-b487-54cf0b19e53a"
+    }
+  ],
+  "textureNames": [
+    "golem_tower_lv4_celestial_fx.png"
+  ],
+  "scale": 1
+}

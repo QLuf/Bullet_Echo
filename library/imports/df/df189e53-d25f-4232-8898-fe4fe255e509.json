@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chars_Kazetsu_anim_Skill2_B_1(7)",
+    "texture": "12365c01-ccba-469e-8a3d-7759dbb81fb9",
+    "atlas": "51e1e062-c065-44a6-ba5b-4d6464c4166e",
+    "rect": [
+      1,
+      1,
+      112,
+      107
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      112,
+      107
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

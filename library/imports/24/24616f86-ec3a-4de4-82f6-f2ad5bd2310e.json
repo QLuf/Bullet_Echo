@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bang0_effect_1",
+    "texture": "e36febe2-29d9-409a-bcb5-285bf15c0d57",
+    "atlas": "282c342e-3c13-48b3-91d2-b575a0b4e2c0",
+    "rect": [
+      106,
+      198,
+      105,
+      98
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      105,
+      98
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

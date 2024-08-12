@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sword_lv5",
+    "texture": "d45087a4-ed61-4db0-82f7-34669795759f",
+    "atlas": "751dab80-2a40-4b67-8e7f-ce1a6cd5aaef",
+    "rect": [
+      1,
+      1227,
+      148,
+      155
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      148,
+      155
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Lock-SW-RaisedTile",
+    "texture": "926f2857-1e91-49bb-a2f2-3e058cb50551",
+    "atlas": "",
+    "rect": [
+      1,
+      4,
+      66,
+      67
+    ],
+    "offset": [
+      -2,
+      -1.5
+    ],
+    "originalSize": [
+      72,
+      72
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "heroaura",
+    "texture": "59c0004f-18c8-4a11-afb6-2845ba8e4ec3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      114,
+      57
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      114,
+      57
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

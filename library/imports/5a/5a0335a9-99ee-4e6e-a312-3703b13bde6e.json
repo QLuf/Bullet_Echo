@@ -1,0 +1,41 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "hero_player1_attack_impact.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "0001 shot": {
+      "__uuid__": "defca667-2a6e-454a-833f-1760dfaf4f50"
+    },
+    "0002 shot": {
+      "__uuid__": "4c04187f-dd86-453d-b848-44c00a6aa9ef"
+    },
+    "0003 shot": {
+      "__uuid__": "999177ff-94a9-4153-b641-d3a4812663e8"
+    },
+    "0004 shot": {
+      "__uuid__": "30a9881a-6937-40c2-9a28-ba9f0330f57b"
+    },
+    "0005 shot": {
+      "__uuid__": "ba1295a9-546b-485a-96d9-e8e6c55727e7"
+    },
+    "0006 shot": {
+      "__uuid__": "6315afe0-7f6d-41d4-ada1-9cf92b1b8a3d"
+    },
+    "0007 shot": {
+      "__uuid__": "8643536f-037d-487b-ad6c-ac000c9f1a1b"
+    },
+    "0008 shot": {
+      "__uuid__": "95de1667-1fd4-416e-a1d9-5d4745d8004e"
+    },
+    "0009 shot": {
+      "__uuid__": "ba137ea6-4b8f-418a-9c96-d9fbc08d35a5"
+    },
+    "0010 shot": {
+      "__uuid__": "4b89fd35-47a3-410b-be88-28198594605f"
+    },
+    "0011 shot": {
+      "__uuid__": "aa2d4206-9b07-4961-9fb2-0e25196fdcec"
+    }
+  }
+}

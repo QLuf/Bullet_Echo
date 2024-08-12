@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "f89bac2d-4b1a-4ebf-96a9-e4ece956b5e3",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 388,
+  "height": 388,
+  "platformSettings": {},
+  "subMetas": {
+    "Eff_Ability_SlashSword_Iron_Violet": {
+      "ver": "1.0.4",
+      "uuid": "e526211a-107d-4e71-9953-c331e4debcb1",
+      "rawTextureUuid": "f89bac2d-4b1a-4ebf-96a9-e4ece956b5e3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1.5,
+      "offsetY": 2,
+      "trimX": 2,
+      "trimY": 4,
+      "width": 381,
+      "height": 376,
+      "rawWidth": 388,
+      "rawHeight": 388,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

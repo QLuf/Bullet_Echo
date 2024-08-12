@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Lockmid-N-RaisedTile",
+    "texture": "3a5fb735-8874-47e8-94b4-112bc2fb4bb5",
+    "atlas": "",
+    "rect": [
+      5,
+      4,
+      62,
+      32
+    ],
+    "offset": [
+      0,
+      16
+    ],
+    "originalSize": [
+      72,
+      72
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

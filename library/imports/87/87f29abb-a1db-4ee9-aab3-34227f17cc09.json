@@ -1,0 +1,38 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "levelUP.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "0646 shot": {
+      "__uuid__": "990f55af-422e-4b2a-8023-fea0aefa4926"
+    },
+    "0648 shot": {
+      "__uuid__": "6e5db6c2-e6c3-46f1-86bf-8e14d2e3f1ba"
+    },
+    "0649 shot": {
+      "__uuid__": "f730d8a8-5305-4bda-9174-393752d0b6ba"
+    },
+    "0650 shot": {
+      "__uuid__": "77f16bc8-da55-4d97-aab5-f2c2b7b62b67"
+    },
+    "0651 shot": {
+      "__uuid__": "3f80eeec-fb9c-44b9-9810-475eb66d99cd"
+    },
+    "0652 shot": {
+      "__uuid__": "7b1b656d-0956-4225-a50b-1cc75bad8b7d"
+    },
+    "0653 shot": {
+      "__uuid__": "d2dbcbbe-e385-48a4-9a3c-b575a474d89e"
+    },
+    "0654 shot": {
+      "__uuid__": "55042099-51d4-4d86-8776-5c7081080f2c"
+    },
+    "0655 shot": {
+      "__uuid__": "ded79e6b-31f1-4d83-b02b-fa73ea1194c1"
+    },
+    "0656 shot": {
+      "__uuid__": "1dd4f89b-10f8-4ebb-b622-738d1a24b304"
+    }
+  }
+}

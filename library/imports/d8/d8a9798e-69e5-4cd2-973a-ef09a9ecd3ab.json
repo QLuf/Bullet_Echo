@@ -1,0 +1,26 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "atk.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "WWJ_atk_1_ep00": {
+      "__uuid__": "5b2a0f40-6552-4285-b433-46c877077abd"
+    },
+    "WWJ_atk_1_ep01": {
+      "__uuid__": "af19fe58-5a2e-4f00-a0e7-2154ced337f4"
+    },
+    "WWJ_atk_1_ep02": {
+      "__uuid__": "e8bc9f82-d6d2-48f3-8129-e1573b5311e7"
+    },
+    "WWJ_atk_1_ep04": {
+      "__uuid__": "aa50ac69-4d2b-4400-b6b6-637199bc698d"
+    },
+    "WWJ_atk_1_ep05": {
+      "__uuid__": "76b73004-8396-49b4-b19c-d2e198bf8a10"
+    },
+    "WWJ_atk_1_ep06": {
+      "__uuid__": "8c41ca60-f298-4a82-9f15-e6735059c3be"
+    }
+  }
+}

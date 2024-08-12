@@ -1,0 +1,32 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "mining.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "1(8)": {
+      "__uuid__": "e0bd623d-28ed-49d5-ace9-8ac09913a3e4"
+    },
+    "2(8)": {
+      "__uuid__": "2ac09c81-fe7d-48e1-9402-ed5ed134bfed"
+    },
+    "3(3)": {
+      "__uuid__": "d5436ff8-5076-4576-a23b-2da02e29063a"
+    },
+    "4(5)": {
+      "__uuid__": "bed3b871-0253-421e-8e4b-907f7425728d"
+    },
+    "5(5)": {
+      "__uuid__": "bba65cfa-3706-4684-9da5-09c287a5ab98"
+    },
+    "6(3)": {
+      "__uuid__": "d9bf3f80-4a80-4b00-822a-cd0a9a5efa2d"
+    },
+    "7(8)": {
+      "__uuid__": "f7e501d8-7e4a-47cf-9dde-c513e9e83723"
+    },
+    "8(8)": {
+      "__uuid__": "bc78c04a-a850-4b4b-a895-f18e75a8231a"
+    }
+  }
+}

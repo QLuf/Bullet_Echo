@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Goc_Bui_Cay",
+    "texture": "030eae93-beae-40c1-9b5b-f2cec84b09f6",
+    "atlas": "",
+    "rect": [
+      10,
+      46,
+      53,
+      26
+    ],
+    "offset": [
+      0.5,
+      -23
+    ],
+    "originalSize": [
+      72,
+      72
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

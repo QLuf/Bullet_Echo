@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "barrel_plant",
+    "texture": "6e10fed8-b2be-496f-9f65-338d333374b8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      35,
+      46
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      35,
+      46
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

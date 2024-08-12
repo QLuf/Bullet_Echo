@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "statue_disable",
+    "texture": "8dfed6f0-0002-482b-ad26-9edb16c4af5d",
+    "atlas": "",
+    "rect": [
+      0,
+      47,
+      136,
+      231
+    ],
+    "offset": [
+      0,
+      -23.5
+    ],
+    "originalSize": [
+      136,
+      278
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

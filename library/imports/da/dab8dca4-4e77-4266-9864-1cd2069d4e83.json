@@ -1,0 +1,20 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "skill1-1.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "SKILL1_Anim_MonkeyKing04": {
+      "__uuid__": "1cc5febd-09b9-4ca7-9edd-1420d034906a"
+    },
+    "SKILL1_Anim_MonkeyKing05": {
+      "__uuid__": "394d1194-6da4-4f75-a687-22bde5ab2c4e"
+    },
+    "SKILL1_Anim_MonkeyKing06": {
+      "__uuid__": "e0827184-836c-4c43-91bc-72f82d3bd3b9"
+    },
+    "SKILL1_Anim_MonkeyKing07": {
+      "__uuid__": "7dbc2639-52d9-424e-ae9a-928893405551"
+    }
+  }
+}

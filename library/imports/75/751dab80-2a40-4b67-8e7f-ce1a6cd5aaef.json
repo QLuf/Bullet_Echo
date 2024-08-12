@@ -1,0 +1,89 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "item.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "Layer 11 copy": {
+      "__uuid__": "6ad9367e-ede8-482c-a6d8-2e68ceb5ca92"
+    },
+    "armor_lv3": {
+      "__uuid__": "01d193ca-9ab2-4b2d-beb3-2531ce014b78"
+    },
+    "axe_lv3": {
+      "__uuid__": "4f7b4f2c-6e58-4778-b3b9-db433b7c93db"
+    },
+    "axe_lv6": {
+      "__uuid__": "2bd4ea1d-17bc-472e-a338-a2261821a936"
+    },
+    "bow_lv4": {
+      "__uuid__": "62e60e66-730e-44d3-a2a6-5edeef98b915"
+    },
+    "bow_lv6": {
+      "__uuid__": "69e62068-53c9-434a-bcc2-7c66b7b82ace"
+    },
+    "exotic_weapon": {
+      "__uuid__": "d6cf7503-8791-4ae9-9cba-6ebb58856733"
+    },
+    "hat_4": {
+      "__uuid__": "2da2a39b-daf7-45b1-bee2-23bb099cf9ca"
+    },
+    "hat_lv6": {
+      "__uuid__": "25cf8c0a-d657-44a4-8f17-549fcd7c677e"
+    },
+    "shield_lv4": {
+      "__uuid__": "05aa001e-c091-41fe-9a9d-e975aba78e47"
+    },
+    "shield_lv6": {
+      "__uuid__": "e813a88f-2412-400e-9853-81aa4401a738"
+    },
+    "shoes_lv1": {
+      "__uuid__": "b3dfe918-b8ee-45f3-99a6-c16091e5d607"
+    },
+    "shoes_lv3": {
+      "__uuid__": "f0e03997-a283-4128-a03d-3ffbee23080d"
+    },
+    "spear_lv1": {
+      "__uuid__": "23774dbe-e427-4b18-be78-90bcf5f7d724"
+    },
+    "spear_lv3": {
+      "__uuid__": "63651bf4-789b-4be0-8053-9695ae87af15"
+    },
+    "spear_lv4": {
+      "__uuid__": "799faf55-6291-4ba9-a86b-9713e711da22"
+    },
+    "spear_lv5": {
+      "__uuid__": "26a155ac-103b-4a35-b9d1-e531ee30cea1"
+    },
+    "spear_lv6": {
+      "__uuid__": "72e0135e-d6f9-477a-ab55-e555b835679d"
+    },
+    "staff_lv4": {
+      "__uuid__": "afeaa6d1-7dcd-4f01-8b12-8f522b2f7623"
+    },
+    "staff_lv6": {
+      "__uuid__": "a4972029-8973-4e89-b4e2-8adbc9e7d34b"
+    },
+    "sword_lv4": {
+      "__uuid__": "b4feba7e-181d-4d05-b4f8-7d05cb5e804e"
+    },
+    "sword_lv5": {
+      "__uuid__": "7f8f4445-d2c5-4f05-8134-11d5f09ab298"
+    },
+    "sword_lv6": {
+      "__uuid__": "e67cbf83-b146-4b6b-b740-b96aa307ad72"
+    },
+    "trousers_lv1": {
+      "__uuid__": "840dedef-c975-41c5-a307-b1e3905540b5"
+    },
+    "trousers_lv3": {
+      "__uuid__": "923d7902-f3aa-44a1-970b-07301b6f15e3"
+    },
+    "trousers_lv4": {
+      "__uuid__": "e3a1971b-d44a-404d-a66b-22eaaa15b289"
+    },
+    "trousers_lv6": {
+      "__uuid__": "527f229d-7d1d-4b9b-a35a-e8623ce64c09"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "3008_Chimera_skill_1-2.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "10(4)": {
+      "__uuid__": "46d65dbe-553a-445c-a0f2-0025f01b9de6"
+    },
+    "11(10)": {
+      "__uuid__": "2df3f1e1-d0c6-4fb0-af7f-9b0002b64cd2"
+    },
+    "12(8)": {
+      "__uuid__": "95ffedc9-a985-4eed-955a-0ef12850dffa"
+    },
+    "9(4)": {
+      "__uuid__": "3b2c519e-f980-49fd-bb4c-41470d270927"
+    }
+  }
+}

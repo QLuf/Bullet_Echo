@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "hero_player1_attack_start_op2.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "0001 shot": {
+      "__uuid__": "db43adbd-b8de-475e-87fd-a62f8f4c44e0"
+    },
+    "0002 shot": {
+      "__uuid__": "9ea1878c-b2e5-4bf2-a53b-01efd1ad77fe"
+    },
+    "0003 shot": {
+      "__uuid__": "d96d2df4-5d84-47aa-beaa-16370131a27d"
+    },
+    "0004 shot": {
+      "__uuid__": "5270edb3-6029-4abe-a377-b37e9b826761"
+    },
+    "0005 shot": {
+      "__uuid__": "300bb9eb-e5bb-41ad-9422-85a97788e053"
+    },
+    "0006 shot": {
+      "__uuid__": "9f826d8e-ff54-4545-bd95-b5796249e888"
+    },
+    "0007 shot": {
+      "__uuid__": "50de0802-6549-48dd-b35b-c87c79ccf33b"
+    }
+  }
+}

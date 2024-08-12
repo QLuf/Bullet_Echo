@@ -1,0 +1,20 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "3008_Chimera_Idle-0.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "(8)": {
+      "__uuid__": "cdf2933b-637f-473a-add3-e49d97b362da"
+    },
+    "1(8)": {
+      "__uuid__": "38235d63-372e-46d8-955d-4dcdcb94e448"
+    },
+    "3(10)": {
+      "__uuid__": "0e2417d2-bee3-477e-9b08-3393b8c82444"
+    },
+    "4(10)": {
+      "__uuid__": "4be9f6a5-b0d3-46a4-8308-034f84241c91"
+    }
+  }
+}

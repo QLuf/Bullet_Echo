@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Hero_rate (2)",
+    "texture": "970420ef-e709-4c80-8f91-3861fd549745",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      172,
+      172
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      172,
+      172
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

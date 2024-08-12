@@ -1,0 +1,26 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "atk.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "1(5)": {
+      "__uuid__": "a9a8294d-192a-40f5-892b-6ada93fdf244"
+    },
+    "2(5)": {
+      "__uuid__": "4047fd23-608e-45ee-a54d-e1c3329a2eeb"
+    },
+    "3(4)": {
+      "__uuid__": "39ec7b3f-beb3-4c11-8d86-10a7c4c921ef"
+    },
+    "4(5)": {
+      "__uuid__": "6daf6e82-d8b9-4c8d-ba4b-fd68c7bcc358"
+    },
+    "5(8)": {
+      "__uuid__": "9fd654c9-788f-4727-ba0c-460dc85ec408"
+    },
+    "6(5)": {
+      "__uuid__": "19f6a0c3-7ce7-44cb-97b7-bace6965399c"
+    }
+  }
+}

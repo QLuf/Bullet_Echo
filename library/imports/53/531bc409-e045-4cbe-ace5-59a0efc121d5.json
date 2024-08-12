@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "arrowExplode",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.06666666666666667,
+  "sample": 60,
+  "speed": 0.6,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "ae35f41b-095f-400a-bf00-32317535cd04"
+            }
+          },
+          {
+            "frame": 0.016666666666666666,
+            "value": {
+              "__uuid__": "8718381c-c53f-44a4-b509-03e7463f1974"
+            }
+          },
+          {
+            "frame": 0.03333333333333333,
+            "value": {
+              "__uuid__": "0661e703-742c-4e85-ba49-4538b9e0542c"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "7baaff72-987f-40ba-9ebe-eb128669e4ed"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0.05,
+      "func": "finish",
+      "params": []
+    }
+  ]
+}

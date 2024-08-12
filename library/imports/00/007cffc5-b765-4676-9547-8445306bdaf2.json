@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Lockmid-E-GroundTile",
+    "texture": "c22ca6ce-1e72-4800-a584-a8133a877baf",
+    "atlas": "",
+    "rect": [
+      5,
+      36,
+      60,
+      32
+    ],
+    "offset": [
+      -1,
+      -16
+    ],
+    "originalSize": [
+      72,
+      72
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

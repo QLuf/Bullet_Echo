@@ -1,0 +1,74 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "appear_fire.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "Fire_Start00": {
+      "__uuid__": "a76bf44f-2104-4f49-a09a-0dc908b316a2"
+    },
+    "Fire_Start01": {
+      "__uuid__": "f1efb158-dd41-4756-9261-3b0abfa1c8e2"
+    },
+    "Fire_Start02": {
+      "__uuid__": "e5bab60b-380e-4d60-a1c4-67cd104a89ee"
+    },
+    "Fire_Start03": {
+      "__uuid__": "d8ea758b-efd2-4f14-945a-45b948870e06"
+    },
+    "Fire_Start04": {
+      "__uuid__": "9f365898-4f83-4c98-90f9-4a841973833f"
+    },
+    "Fire_Start06": {
+      "__uuid__": "7f4d28a5-d2bb-408d-8367-7dc77216f7bd"
+    },
+    "Fire_Start08": {
+      "__uuid__": "e5b5b54d-fcba-420a-9079-adb4afa696e4"
+    },
+    "Fire_Start09": {
+      "__uuid__": "46c02835-f0d4-42d8-8e4f-d8a079c61b71"
+    },
+    "Fire_Start11": {
+      "__uuid__": "b069e454-2028-46d5-815e-e5c1de562978"
+    },
+    "Fire_Start13": {
+      "__uuid__": "7eb5bf6e-50a4-424a-80f5-c73479401ce1"
+    },
+    "Fire_Start15": {
+      "__uuid__": "02ef2883-322d-4176-805a-c4635854c38a"
+    },
+    "Fire_Start17": {
+      "__uuid__": "f7482921-0a14-4a6b-a5e9-46c49843847c"
+    },
+    "Fire_Start18": {
+      "__uuid__": "b87e43ba-e8da-4a5b-8958-2ebd8ba03f9a"
+    },
+    "Fire_Start20": {
+      "__uuid__": "f89d815c-67f9-439d-90f4-e122c0a7df8b"
+    },
+    "Fire_Start22": {
+      "__uuid__": "70886b9e-e2bd-4ceb-94ec-f8ce98d43455"
+    },
+    "Fire_Start24": {
+      "__uuid__": "d18b8215-ae0c-4030-a818-328fd190dfc6"
+    },
+    "Fire_Start26": {
+      "__uuid__": "e16870ec-f0d7-4a4c-ac1f-6e292ea163dc"
+    },
+    "Fire_Start27": {
+      "__uuid__": "24bfcb07-2403-4ec3-a04f-50c432dd7ad0"
+    },
+    "Fire_Start29": {
+      "__uuid__": "425e6108-2ae5-479e-a8a0-568e5eee3cf8"
+    },
+    "Fire_Start31": {
+      "__uuid__": "363c4ffe-fd24-4a40-a401-62124613042d"
+    },
+    "Fire_Start33": {
+      "__uuid__": "79f28fdf-b725-4764-9c0d-60e20c692037"
+    },
+    "Fire_Start35": {
+      "__uuid__": "6401fcfa-8815-4c4a-b239-42b22974325a"
+    }
+  }
+}

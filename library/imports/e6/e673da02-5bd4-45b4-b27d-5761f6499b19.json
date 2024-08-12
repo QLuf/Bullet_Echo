@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tải xuống (12)",
+    "texture": "c43b6d93-3250-43b6-b8ff-a397ce9c52ef",
+    "atlas": "",
+    "rect": [
+      56,
+      56,
+      279,
+      56
+    ],
+    "offset": [
+      -1,
+      9
+    ],
+    "originalSize": [
+      393,
+      186
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

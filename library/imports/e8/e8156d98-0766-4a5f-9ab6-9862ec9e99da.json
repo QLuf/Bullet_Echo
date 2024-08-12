@@ -1,0 +1,41 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "death.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "death01": {
+      "__uuid__": "a1b2d876-b51e-4296-8694-12f98f008b81"
+    },
+    "death02": {
+      "__uuid__": "33eba909-0dac-4eca-8468-788933843081"
+    },
+    "death03": {
+      "__uuid__": "a29b6e42-f84e-4f4b-b05e-aca1f8e11ce2"
+    },
+    "death04": {
+      "__uuid__": "764e1405-35f7-443c-99a1-f69b23ee426d"
+    },
+    "death05": {
+      "__uuid__": "616a47bc-b0fc-47af-80f5-f2195bbe9671"
+    },
+    "death06": {
+      "__uuid__": "24dc4857-dcd4-416b-a0ae-bec0d0d65a92"
+    },
+    "death07": {
+      "__uuid__": "cb7a4b1a-606d-4bb6-86e3-4bafcf1988af"
+    },
+    "death08": {
+      "__uuid__": "08fe0e74-f447-426b-9bfd-cfa6278e178d"
+    },
+    "death09": {
+      "__uuid__": "4a4c89af-bc88-45a5-b61a-8c7e0d8495d7"
+    },
+    "death10": {
+      "__uuid__": "8c0ccd30-84ca-4cb7-8463-cfa79bda601e"
+    },
+    "death11": {
+      "__uuid__": "798a4e7e-5ff6-41b6-a35a-4eeae3b7159c"
+    }
+  }
+}

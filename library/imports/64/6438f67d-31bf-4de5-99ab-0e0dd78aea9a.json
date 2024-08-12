@@ -1,0 +1,119 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "skill_fx.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "con ho mat day101": {
+      "__uuid__": "da13528a-19cf-468e-a0ef-0783ddd04a4a"
+    },
+    "con ho mat day107": {
+      "__uuid__": "ff84326d-7357-4486-9363-d1aae75a5ad8"
+    },
+    "con ho mat day114": {
+      "__uuid__": "c05bf2c7-accf-4220-86bc-d8c3b707854d"
+    },
+    "con ho mat day119": {
+      "__uuid__": "dc0297c3-5425-4270-b139-bc4aac0e7b60"
+    },
+    "con ho mat day12": {
+      "__uuid__": "897f362a-9b6b-4f5b-9586-08f7fa3056a0"
+    },
+    "con ho mat day120": {
+      "__uuid__": "93769aa8-fa83-4b5d-981e-8400c8999241"
+    },
+    "con ho mat day126": {
+      "__uuid__": "916f53a6-276d-408d-b0ff-450684469653"
+    },
+    "con ho mat day127": {
+      "__uuid__": "508b38b1-5139-4a39-9d4b-e1db85861f17"
+    },
+    "con ho mat day132": {
+      "__uuid__": "abea3ceb-5119-46ed-9355-6eb40aeb998a"
+    },
+    "con ho mat day137": {
+      "__uuid__": "f52e8977-7776-4196-9975-8112019c677d"
+    },
+    "con ho mat day138": {
+      "__uuid__": "5f8e9368-d69e-4bb0-8693-5b1e2380caf8"
+    },
+    "con ho mat day143": {
+      "__uuid__": "82d142e8-cd99-4e5b-9bb1-0474cacf4a10"
+    },
+    "con ho mat day144": {
+      "__uuid__": "7258a37b-b4d3-401d-9a6b-b582c92bcdbb"
+    },
+    "con ho mat day149": {
+      "__uuid__": "ecc5c6a8-141e-4b64-8fcb-4f94210531d5"
+    },
+    "con ho mat day155": {
+      "__uuid__": "aa3b4033-86fb-41c4-a112-4e997365ec1d"
+    },
+    "con ho mat day162": {
+      "__uuid__": "ba8a53e6-5122-4759-8642-a8d473b568ac"
+    },
+    "con ho mat day168": {
+      "__uuid__": "9683a189-3c66-4a31-94b5-4776dda2aca1"
+    },
+    "con ho mat day174": {
+      "__uuid__": "d7de6489-2419-48b4-93c6-704be2817899"
+    },
+    "con ho mat day18": {
+      "__uuid__": "c9c6505b-c6df-4b11-801e-240040a1e72d"
+    },
+    "con ho mat day24": {
+      "__uuid__": "b396faf5-4b44-40fc-86c7-92be477223c8"
+    },
+    "con ho mat day30": {
+      "__uuid__": "d10d62cb-c081-460e-a1ea-ad500bfb6113"
+    },
+    "con ho mat day36": {
+      "__uuid__": "96f6ecbc-8481-4233-9db3-bf8da0716786"
+    },
+    "con ho mat day42": {
+      "__uuid__": "13f9492c-5855-4477-9785-037a1fad9af6"
+    },
+    "con ho mat day43": {
+      "__uuid__": "161b5c06-8c07-4922-b205-3c874fab7984"
+    },
+    "con ho mat day48": {
+      "__uuid__": "b35062d8-1c10-4792-9d9a-89d1670afd7d"
+    },
+    "con ho mat day54": {
+      "__uuid__": "7d69de6b-df87-48ba-ae6c-44313602c7ec"
+    },
+    "con ho mat day55": {
+      "__uuid__": "35a2553c-0903-4d20-b3db-83ce231bcb7e"
+    },
+    "con ho mat day6": {
+      "__uuid__": "40ee250d-6d21-4f2c-9520-27d36dd01ddd"
+    },
+    "con ho mat day60": {
+      "__uuid__": "d698ca14-144d-4783-aa6e-5d87ee9ce3fc"
+    },
+    "con ho mat day66": {
+      "__uuid__": "c6400905-0785-4359-bfdd-a215fd812b13"
+    },
+    "con ho mat day72": {
+      "__uuid__": "1306e42f-1844-417b-909b-3476ecaa6a74"
+    },
+    "con ho mat day78": {
+      "__uuid__": "babe52ac-9336-4c3b-9734-fba54a0534c5"
+    },
+    "con ho mat day79": {
+      "__uuid__": "402b7c9b-7340-4db9-98ec-de9d86d7f843"
+    },
+    "con ho mat day84": {
+      "__uuid__": "2b5e0819-5301-444f-b418-d19089aef972"
+    },
+    "con ho mat day90": {
+      "__uuid__": "69c35b0e-ec17-4007-befa-86164667af7a"
+    },
+    "con ho mat day91": {
+      "__uuid__": "7362da4b-f9e4-4b84-86d3-b767ec6bd411"
+    },
+    "con ho mat day96": {
+      "__uuid__": "aea299f6-25a7-46a8-afa7-bcb80ade841e"
+    }
+  }
+}

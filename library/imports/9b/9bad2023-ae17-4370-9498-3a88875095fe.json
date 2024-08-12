@@ -1,0 +1,17 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "skill2-1.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "10(8)": {
+      "__uuid__": "53c7e6b7-0aea-4979-ae13-b554f44c09f4"
+    },
+    "11(7)": {
+      "__uuid__": "a191f332-d878-4973-a1b4-1aab242c0e49"
+    },
+    "12(8)": {
+      "__uuid__": "8a556fd6-f651-4a89-b744-8bccd6645d0d"
+    }
+  }
+}

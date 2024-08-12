@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dungeonEntrance 1",
+    "texture": "c54b0f7a-95c5-412c-bbab-4fa64e920c08",
+    "atlas": "aff9a413-b333-4b1e-9a13-e2a30b5876d7",
+    "rect": [
+      0,
+      0,
+      260,
+      382
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      260,
+      382
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

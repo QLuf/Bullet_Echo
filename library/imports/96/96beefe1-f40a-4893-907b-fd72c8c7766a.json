@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mappp",
+    "texture": "75b0fac7-6405-412c-bc13-6d8c4452e7e2",
+    "atlas": "",
+    "rect": [
+      5,
+      0,
+      2555,
+      1276
+    ],
+    "offset": [
+      2.5,
+      2
+    ],
+    "originalSize": [
+      2560,
+      1280
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

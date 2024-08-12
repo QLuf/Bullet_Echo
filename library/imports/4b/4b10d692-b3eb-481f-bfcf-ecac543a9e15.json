@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "NoLockRaisedTile",
+    "texture": "cce74735-6699-41c3-b2af-c08bdc485d99",
+    "atlas": "",
+    "rect": [
+      5,
+      4,
+      62,
+      32
+    ],
+    "offset": [
+      0,
+      16
+    ],
+    "originalSize": [
+      72,
+      72
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

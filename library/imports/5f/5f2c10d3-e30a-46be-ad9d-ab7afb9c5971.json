@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tuongthanh",
+    "texture": "f841989c-051e-443d-b126-9828228a3786",
+    "atlas": "",
+    "rect": [
+      32,
+      17,
+      557,
+      242
+    ],
+    "offset": [
+      2,
+      6
+    ],
+    "originalSize": [
+      617,
+      288
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

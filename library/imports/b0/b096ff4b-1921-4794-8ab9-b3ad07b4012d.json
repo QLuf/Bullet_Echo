@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "5404_snow",
+    "texture": "6fa534d7-c66a-46da-b054-70e53bfe4532",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      68,
+      116
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      68,
+      116
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

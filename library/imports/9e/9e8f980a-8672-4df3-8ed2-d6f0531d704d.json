@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_hero_academy_mainmenu 2",
+    "texture": "d2c05c47-51f5-43f5-9356-35fe1a9a67bb",
+    "atlas": "",
+    "rect": [
+      0,
+      5,
+      84,
+      70
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      84,
+      80
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

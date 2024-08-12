@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "buicay_snow",
+    "texture": "155b6bb0-80f1-46e7-bc42-68369dde73a9",
+    "atlas": "",
+    "rect": [
+      10,
+      14,
+      53,
+      50
+    ],
+    "offset": [
+      0.5,
+      -3
+    ],
+    "originalSize": [
+      72,
+      72
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

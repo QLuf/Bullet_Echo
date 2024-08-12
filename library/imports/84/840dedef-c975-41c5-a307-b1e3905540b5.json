@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "trousers_lv1",
+    "texture": "d45087a4-ed61-4db0-82f7-34669795759f",
+    "atlas": "751dab80-2a40-4b67-8e7f-ce1a6cd5aaef",
+    "rect": [
+      301,
+      1227,
+      144,
+      136
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      144,
+      136
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

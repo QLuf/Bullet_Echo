@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Co sang",
+    "texture": "1a0b7ace-e87a-4f4c-b32e-a5dd9f60f4e0",
+    "atlas": "",
+    "rect": [
+      13,
+      39,
+      48,
+      26
+    ],
+    "offset": [
+      1,
+      -16
+    ],
+    "originalSize": [
+      72,
+      72
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

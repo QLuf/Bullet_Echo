@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "8c16dcca-3cc7-44b3-81f9-14a62dec3c03",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 256,
+  "height": 512,
+  "platformSettings": {},
+  "subMetas": {
+    "Gacha": {
+      "ver": "1.0.4",
+      "uuid": "a25151da-7cb2-49b0-a58e-3490b9887a83",
+      "rawTextureUuid": "8c16dcca-3cc7-44b3-81f9-14a62dec3c03",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -24,
+      "offsetY": 51.5,
+      "trimX": 0,
+      "trimY": 1,
+      "width": 208,
+      "height": 407,
+      "rawWidth": 256,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

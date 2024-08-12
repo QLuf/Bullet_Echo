@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "buicay",
+    "texture": "bab89cc3-2aa5-46f8-8d5c-2e1ec14e982f",
+    "atlas": "",
+    "rect": [
+      10,
+      19,
+      53,
+      45
+    ],
+    "offset": [
+      0.5,
+      -5.5
+    ],
+    "originalSize": [
+      72,
+      72
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

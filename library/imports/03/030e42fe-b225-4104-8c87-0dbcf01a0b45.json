@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "atk_down05 (Copy)",
+    "texture": "e2c37e26-23ef-4cd4-b6e3-da6f8704857b",
+    "atlas": "84ad9b0a-4198-40a8-ad06-7d57daf780a0",
+    "rect": [
+      1397,
+      1,
+      347,
+      242
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      347,
+      242
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

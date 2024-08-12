@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "move01",
+    "texture": "779a39d8-5507-4569-a8ed-71d71e881392",
+    "atlas": "6fa5099f-2b6a-4b87-aec8-d4bd44360fa8",
+    "rect": [
+      451,
+      1,
+      448,
+      447
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      448,
+      447
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

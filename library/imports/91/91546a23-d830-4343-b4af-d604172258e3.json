@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Group 1Green",
+    "texture": "fac869c8-18ef-4320-b0bc-2cc7bc3f873b",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      156,
+      186
+    ],
+    "offset": [
+      -8,
+      0
+    ],
+    "originalSize": [
+      174,
+      188
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

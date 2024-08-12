@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "9e49b395-debb-404e-ac7b-c7ffeeb57739",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 17,
+  "height": 15,
+  "platformSettings": {},
+  "subMetas": {
+    "snowball_03": {
+      "ver": "1.0.4",
+      "uuid": "6d3d7912-7e49-4d6a-97db-5aae35fe64fc",
+      "rawTextureUuid": "9e49b395-debb-404e-ac7b-c7ffeeb57739",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 17,
+      "height": 15,
+      "rawWidth": 17,
+      "rawHeight": 15,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "skill_15_projectile.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "0001 shot": {
+      "__uuid__": "920f88df-37b7-43c6-8402-55eb26225c8a"
+    },
+    "0002 shot": {
+      "__uuid__": "459a4687-f0fc-4b38-9ff0-eead5c1af373"
+    },
+    "0003 shot": {
+      "__uuid__": "059f5665-d1a3-4390-81e8-7f7b5b23adeb"
+    },
+    "0004 shot": {
+      "__uuid__": "6bcc9d3c-c9bb-4802-8524-e386d2c702b0"
+    },
+    "0005 shot": {
+      "__uuid__": "ce64bd99-1962-4418-a248-7ce51bb358e1"
+    },
+    "0006 shot": {
+      "__uuid__": "7bd19531-937e-4ad4-a5ca-979135fd0e23"
+    },
+    "0007 shot": {
+      "__uuid__": "b61b3d81-52b9-4adb-b08d-39f355df7415"
+    },
+    "0008 shot": {
+      "__uuid__": "37d0b051-9ca4-409d-b7e4-6c83675e3b63"
+    },
+    "0009 shot": {
+      "__uuid__": "2490a224-0ee7-4b9b-aa39-c9f19e728097"
+    },
+    "0010 shot": {
+      "__uuid__": "cc76f14e-ee61-4fe5-8e9e-2366aa2495eb"
+    },
+    "0011 shot": {
+      "__uuid__": "8d6a95a0-ff0f-4a94-b7d9-b616797f1eab"
+    },
+    "0012 shot": {
+      "__uuid__": "42efda1f-4c33-4334-8a74-9e50b8421d8e"
+    },
+    "0013 shot": {
+      "__uuid__": "22a17d42-9c6d-437c-81e7-a5afaacb8644"
+    },
+    "0014 shot": {
+      "__uuid__": "e94be285-ed83-412d-b976-e8ca1d6c0b05"
+    },
+    "0015 shot": {
+      "__uuid__": "54a10370-8a09-418b-b537-ccc4e29e3df5"
+    },
+    "0016 shot": {
+      "__uuid__": "19803977-9a16-4eef-8c9a-7acc9e388373"
+    },
+    "0017 shot": {
+      "__uuid__": "fe624422-27b8-49c5-8b62-903546adf77b"
+    },
+    "0018 shot": {
+      "__uuid__": "3637bce2-30a6-4a5d-9bc2-bde17a202e70"
+    },
+    "0019 shot": {
+      "__uuid__": "4edb0e52-c1b1-4293-82d6-3648fdc4d0e8"
+    },
+    "0020 shot": {
+      "__uuid__": "b19474e8-b7b2-4457-ab9e-c2a628b8f716"
+    },
+    "0021 shot": {
+      "__uuid__": "d24e0407-f0df-4bc1-9cce-924006b602ec"
+    },
+    "0022 shot": {
+      "__uuid__": "4a0c4030-4731-4503-9b9d-42bbfc546abc"
+    }
+  }
+}

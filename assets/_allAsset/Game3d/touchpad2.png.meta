@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "d47c8c7a-e96b-4f2f-881f-05263ec7af1e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 296,
+  "height": 296,
+  "platformSettings": {},
+  "subMetas": {
+    "touchpad2": {
+      "ver": "1.0.4",
+      "uuid": "9a20eee8-c4d9-4767-bbb4-4d338a707c94",
+      "rawTextureUuid": "d47c8c7a-e96b-4f2f-881f-05263ec7af1e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 296,
+      "height": 296,
+      "rawWidth": 296,
+      "rawHeight": 296,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

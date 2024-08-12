@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Mountain2_snow",
+    "texture": "983d607d-3568-4e19-8184-78e46d50988f",
+    "atlas": "",
+    "rect": [
+      3,
+      0,
+      130,
+      120
+    ],
+    "offset": [
+      1,
+      1
+    ],
+    "originalSize": [
+      134,
+      122
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

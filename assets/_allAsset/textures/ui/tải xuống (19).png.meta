@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "3e26247a-0fd3-4b62-a6cc-fdfd57948fef",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 197,
+  "height": 160,
+  "platformSettings": {},
+  "subMetas": {
+    "tải xuống (19)": {
+      "ver": "1.0.4",
+      "uuid": "22a83bb0-92db-4c8f-8e06-179ba819b82b",
+      "rawTextureUuid": "3e26247a-0fd3-4b62-a6cc-fdfd57948fef",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 5,
+      "offsetY": 0,
+      "trimX": 12,
+      "trimY": 0,
+      "width": 183,
+      "height": 160,
+      "rawWidth": 197,
+      "rawHeight": 160,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

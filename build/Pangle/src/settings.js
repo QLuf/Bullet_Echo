@@ -1,0 +1,1 @@
+window._CCSettings={platform:"web-mobile",groupList:["default","ui","bg","bgCam","miniMap"],collisionMatrix:[[true],[false,false],[false,false,false],[false,false,false,false],[false,false,false,false,true]],hasResourcesBundle:false,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/scene/Game3D.fire",orientation:"landscape",jsList:[]};

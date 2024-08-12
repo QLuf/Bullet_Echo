@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "fx_skill1.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "2(7)": {
+      "__uuid__": "07fef80f-9502-4b5f-bb46-7fd0a75875f2"
+    },
+    "3(8)": {
+      "__uuid__": "71513df9-f453-4866-ba66-043fd1087317"
+    },
+    "4(7)": {
+      "__uuid__": "2174a788-47ba-4456-a9bf-200bb6e5a2fc"
+    },
+    "5(8)": {
+      "__uuid__": "f542c28b-6dc0-44a7-b7e7-cfa34ec6dfd8"
+    },
+    "6(7)": {
+      "__uuid__": "19ca13af-ee75-43eb-a5ea-04df441dfb6b"
+    },
+    "7(8)": {
+      "__uuid__": "e8c33126-a1e4-4546-8c9b-c1ac75bad1db"
+    },
+    "8(7)": {
+      "__uuid__": "be392a34-bfb5-47e4-9929-1d3dd2d8132b"
+    }
+  }
+}

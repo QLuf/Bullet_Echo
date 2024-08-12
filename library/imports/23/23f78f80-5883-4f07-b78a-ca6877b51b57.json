@@ -1,0 +1,20 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "minning.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "1(7)": {
+      "__uuid__": "7113cf27-6a13-4e4c-89da-fe656176713c"
+    },
+    "2(8)": {
+      "__uuid__": "8d8f2570-1278-44a7-a4cb-40ae47786830"
+    },
+    "3(7)": {
+      "__uuid__": "af9211ec-57fb-4898-be25-f15eb7ad32ce"
+    },
+    "4(8)": {
+      "__uuid__": "5a8ec369-f1fc-4b6a-b5e1-88c18494b418"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_gem",
+    "texture": "40384cbf-2d8e-4ffb-bf0f-058db6bf7668",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      57,
+      61
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      57,
+      61
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

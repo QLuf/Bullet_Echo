@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fx_skill1",
+    "texture": "1dc88398-031e-42a3-b539-4903e38a9eaf",
+    "atlas": "",
+    "rect": [
+      18,
+      0,
+      866,
+      1988
+    ],
+    "offset": [
+      -1,
+      0
+    ],
+    "originalSize": [
+      904,
+      1988
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

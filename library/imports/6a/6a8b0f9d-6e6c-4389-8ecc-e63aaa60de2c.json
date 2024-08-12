@@ -1,0 +1,189 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "unlock_finish",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.35,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "fx/New Sprite": {
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0,
+                "value": {
+                  "__uuid__": "16dc7028-ff0b-4cc4-9a6d-1f5730c82306"
+                }
+              },
+              {
+                "frame": 0.016666666666666666,
+                "value": {
+                  "__uuid__": "764aaf40-41f8-404b-9f16-e0c726d73a01"
+                }
+              },
+              {
+                "frame": 0.03333333333333333,
+                "value": {
+                  "__uuid__": "29c55b39-b850-431f-934a-6b25f3659a31"
+                }
+              },
+              {
+                "frame": 0.05,
+                "value": {
+                  "__uuid__": "03e08d67-5fbd-4e19-828d-e35a46413ef1"
+                }
+              },
+              {
+                "frame": 0.06666666666666667,
+                "value": {
+                  "__uuid__": "b1c76ba4-2320-4328-9f99-2959b1934302"
+                }
+              },
+              {
+                "frame": 0.08333333333333333,
+                "value": {
+                  "__uuid__": "e8f95c93-92a1-4470-9ae3-ec3639133786"
+                }
+              },
+              {
+                "frame": 0.1,
+                "value": {
+                  "__uuid__": "5771e6d4-c694-490d-9920-9ce1c779d8d1"
+                }
+              },
+              {
+                "frame": 0.11666666666666667,
+                "value": {
+                  "__uuid__": "e385e276-e767-4b35-b7f6-9adfa75195ca"
+                }
+              },
+              {
+                "frame": 0.13333333333333333,
+                "value": {
+                  "__uuid__": "31849958-253e-452b-8046-a5bca9ba2f58"
+                }
+              },
+              {
+                "frame": 0.15,
+                "value": {
+                  "__uuid__": "8f2841d8-d7bf-41a2-a7d1-982dc3438a59"
+                }
+              },
+              {
+                "frame": 0.16666666666666666,
+                "value": {
+                  "__uuid__": "b3cc7f70-d6de-4acc-ac83-8e168dc70fff"
+                }
+              },
+              {
+                "frame": 0.18333333333333332,
+                "value": {
+                  "__uuid__": "2f3e3d27-1de7-4cab-b8fe-7ba818f60d1c"
+                }
+              },
+              {
+                "frame": 0.2,
+                "value": {
+                  "__uuid__": "8944ef77-8172-41be-ab0a-394cec311243"
+                }
+              },
+              {
+                "frame": 0.21666666666666667,
+                "value": {
+                  "__uuid__": "aa3df3ae-0dd1-41d9-bd4e-52ac6c418998"
+                }
+              },
+              {
+                "frame": 0.23333333333333334,
+                "value": {
+                  "__uuid__": "e695d1c1-7636-4bb8-bd4a-36090472d070"
+                }
+              },
+              {
+                "frame": 0.25,
+                "value": {
+                  "__uuid__": "cfb42367-8dd0-418a-8d66-aac2bbbd2123"
+                }
+              },
+              {
+                "frame": 0.26666666666666666,
+                "value": {
+                  "__uuid__": "b8e05d04-bea9-4a62-985a-0b5319ca7c12"
+                }
+              },
+              {
+                "frame": 0.2833333333333333,
+                "value": {
+                  "__uuid__": "7b5dee9a-7d12-4143-908d-8025d51c4f01"
+                }
+              },
+              {
+                "frame": 0.3,
+                "value": {
+                  "__uuid__": "b7dd8717-769b-4e6f-894a-244bb789ce7b"
+                }
+              },
+              {
+                "frame": 0.31666666666666665,
+                "value": {
+                  "__uuid__": "0bfdc386-cdd8-47ad-afe9-f3b61d4c7a9b"
+                }
+              },
+              {
+                "frame": 0.3333333333333333,
+                "value": {
+                  "__uuid__": "59f94723-c734-4077-ba4d-4a8825a68da1"
+                }
+              }
+            ]
+          }
+        },
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.3333333333333333,
+              "value": 255
+            },
+            {
+              "frame": 0.35,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "tải xuống (77)": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 0.03333333333333333,
+              "value": false
+            }
+          ]
+        }
+      },
+      "tải xuống (78)": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 0.03333333333333333,
+              "value": false
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

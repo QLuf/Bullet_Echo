@@ -1,0 +1,48 @@
+
+Eff_Ability_SlashSword_Iron_Violet.png
+size: 388, 388
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Bullet_GuangJian_Purple_01
+  rotate: false
+  xy: 0, 260
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Bullet_GuangJian_Purple_02
+  rotate: false
+  xy: 0, 130
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Bullet_GuangJian_Purple_03
+  rotate: false
+  xy: 130, 260
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Bullet_GuangJian_Yellow_01
+  rotate: false
+  xy: 0, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Bullet_GuangJian_Yellow_02
+  rotate: false
+  xy: 130, 130
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Bullet_GuangJian_Yellow_03
+  rotate: false
+  xy: 260, 260
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

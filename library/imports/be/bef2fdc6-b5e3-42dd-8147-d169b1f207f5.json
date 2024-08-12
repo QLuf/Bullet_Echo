@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "map_co_dam (1) (1)",
+    "texture": "df155899-3346-46d6-957d-8b9b4a4ffda8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1168,
+      1346
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1168,
+      1346
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

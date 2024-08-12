@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "con ho mat day48",
+    "texture": "904c0427-9ef3-4104-8399-4a21f1f12850",
+    "atlas": "6438f67d-31bf-4de5-99ab-0e0dd78aea9a",
+    "rect": [
+      769,
+      1,
+      94,
+      256
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      94,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

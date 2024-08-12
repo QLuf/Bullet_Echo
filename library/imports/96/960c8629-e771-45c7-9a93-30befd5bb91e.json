@@ -1,0 +1,26 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "walk.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "1(13)": {
+      "__uuid__": "3b79feed-8446-4f81-b1d2-10a22cfd4806"
+    },
+    "2(13)": {
+      "__uuid__": "49c1c70d-ea8f-4a8d-a9b9-d05e5b5fd9a7"
+    },
+    "3(15)": {
+      "__uuid__": "68a46421-0f95-4e15-ad45-b6b0bb9bc00c"
+    },
+    "4(13)": {
+      "__uuid__": "ad22aa42-6ce2-4bc9-b7c3-8d26dbc715cf"
+    },
+    "5(13)": {
+      "__uuid__": "2351889d-816a-439f-99e3-5c801c0ae9ac"
+    },
+    "6(13)": {
+      "__uuid__": "725ca9de-fb59-4bfd-91ad-160bb88b3d79"
+    }
+  }
+}

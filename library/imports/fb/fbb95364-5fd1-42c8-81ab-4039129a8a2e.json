@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "char_Kazetsu_anim_mining_8(7)",
+    "texture": "800d8149-3acc-4971-b82a-21b4b19e3a32",
+    "atlas": "3e68736b-e79f-4a9f-81bc-7499d43a331b",
+    "rect": [
+      665,
+      0,
+      95,
+      70
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      95,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

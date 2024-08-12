@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>bang0_effect_0.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{106,0},{105,98}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{105,98}}</string>
+				<key>sourceSize</key>
+				<string>{105,98}</string>
+			</dict>
+
+			<key>bang0_effect_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{106,198},{105,98}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{105,98}}</string>
+				<key>sourceSize</key>
+				<string>{105,98}</string>
+			</dict>
+
+			<key>bang0_effect_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{106,99},{105,98}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{105,98}}</string>
+				<key>sourceSize</key>
+				<string>{105,98}</string>
+			</dict>
+
+			<key>bang0_effect_3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{212,0},{105,98}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{105,98}}</string>
+				<key>sourceSize</key>
+				<string>{105,98}</string>
+			</dict>
+
+			<key>bang0_effect_4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,198},{105,98}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{105,98}}</string>
+				<key>sourceSize</key>
+				<string>{105,98}</string>
+			</dict>
+
+			<key>bang0_effect_5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,99},{105,98}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{105,98}}</string>
+				<key>sourceSize</key>
+				<string>{105,98}</string>
+			</dict>
+
+			<key>bang0_effect_6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{105,98}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{105,98}}</string>
+				<key>sourceSize</key>
+				<string>{105,98}</string>
+			</dict>
+
+		</dict>
+
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>size</key>
+			<string>{318,318}</string>
+			<key>textureFileName</key>
+			<string>effect_shoot_blue.png</string>
+			</dict>
+		</dict>
+</plist>

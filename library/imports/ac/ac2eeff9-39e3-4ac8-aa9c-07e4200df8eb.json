@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Goc_cay_xanh",
+    "texture": "eb86fc28-e8c3-415e-b069-4fae3f78a0a4",
+    "atlas": "",
+    "rect": [
+      10,
+      74,
+      53,
+      30
+    ],
+    "offset": [
+      0.5,
+      -37
+    ],
+    "originalSize": [
+      72,
+      104
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "WWJ_idle_ep04",
+    "texture": "40f73492-0a17-4e4e-9c57-7ca1e23bb8ba",
+    "atlas": "1b92f6d8-c5ef-426b-a744-1ada3ce11193",
+    "rect": [
+      480,
+      0,
+      160,
+      159
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      160,
+      159
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

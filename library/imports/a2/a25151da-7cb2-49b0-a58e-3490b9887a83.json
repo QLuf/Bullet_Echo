@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Gacha",
+    "texture": "8c16dcca-3cc7-44b3-81f9-14a62dec3c03",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      208,
+      407
+    ],
+    "offset": [
+      -24,
+      51.5
+    ],
+    "originalSize": [
+      256,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

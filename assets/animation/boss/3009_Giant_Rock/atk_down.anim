@@ -1,0 +1,85 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "atk_down",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.18333333333333332,
+  "sample": 60,
+  "speed": 0.2,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "0e6293ff-168c-4861-a2e4-dd5865264eec"
+            }
+          },
+          {
+            "frame": 0.016666666666666666,
+            "value": {
+              "__uuid__": "9dd7280d-86c4-4b4c-bc7c-da9e66eba1f5"
+            }
+          },
+          {
+            "frame": 0.03333333333333333,
+            "value": {
+              "__uuid__": "71ec7011-35e4-46cf-8eb6-d0b5ce88fc22"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "522378e0-d527-43bd-988d-49897e3dbd99"
+            }
+          },
+          {
+            "frame": 0.06666666666666667,
+            "value": {
+              "__uuid__": "b71d2730-fcf1-477a-a1bc-19b26503c321"
+            }
+          },
+          {
+            "frame": 0.08333333333333333,
+            "value": {
+              "__uuid__": "5b5c3373-a035-4763-9054-97eda576cfd7"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "91a2b690-c22a-48e6-8b60-7ba395de37e2"
+            }
+          },
+          {
+            "frame": 0.11666666666666667,
+            "value": {
+              "__uuid__": "a2eeb6b2-a9bf-433f-8320-a50ada3bb2e1"
+            }
+          },
+          {
+            "frame": 0.13333333333333333,
+            "value": {
+              "__uuid__": "28cd87bc-41c3-43bc-9263-f22dfd4ca265"
+            }
+          },
+          {
+            "frame": 0.15,
+            "value": {
+              "__uuid__": "7b17232e-a5b6-461f-b854-257f1f716acf"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0.18333333333333332,
+      "func": "finish",
+      "params": []
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "skill2",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.16666666666666666,
+  "sample": 60,
+  "speed": 0.15,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "3ddc0b88-943e-49e5-b983-80d6d7ec48f9"
+            }
+          },
+          {
+            "frame": 0.016666666666666666,
+            "value": {
+              "__uuid__": "c716136a-edd9-4bb3-8c1a-0587bee0e744"
+            }
+          },
+          {
+            "frame": 0.03333333333333333,
+            "value": {
+              "__uuid__": "57ea199e-59ea-47e9-befb-a054ddbc8e5e"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "1f287cea-82e4-4d9b-9a70-d194de8988e1"
+            }
+          },
+          {
+            "frame": 0.06666666666666667,
+            "value": {
+              "__uuid__": "a2c54b7a-88c7-4d32-8c0a-0137999f15bf"
+            }
+          },
+          {
+            "frame": 0.08333333333333333,
+            "value": {
+              "__uuid__": "c6bb49f7-2ea8-4fa5-8331-3cb6ded63a4b"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "1d5bfa42-4986-475c-92cc-acbe1abf3b24"
+            }
+          },
+          {
+            "frame": 0.11666666666666667,
+            "value": {
+              "__uuid__": "b534c6eb-4302-4b2c-b7b2-41cae163884c"
+            }
+          },
+          {
+            "frame": 0.13333333333333333,
+            "value": {
+              "__uuid__": "348c2b5d-945e-4853-a17f-bd90987aeeac"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0.1,
+      "func": "addEvent",
+      "params": [
+        "skill2"
+      ]
+    },
+    {
+      "frame": 0.16666666666666666,
+      "func": "completeEvent",
+      "params": [
+        "skill2"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Resources đá xanh ON",
+    "texture": "e1559d5f-e3df-4bd3-99ae-7f5952781821",
+    "atlas": "",
+    "rect": [
+      7,
+      4,
+      60,
+      62
+    ],
+    "offset": [
+      1,
+      1
+    ],
+    "originalSize": [
+      72,
+      72
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

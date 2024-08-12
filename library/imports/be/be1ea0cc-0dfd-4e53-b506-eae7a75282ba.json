@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "barbg",
+    "texture": "c04fda62-1f59-450b-81e2-4baec26534f1",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      366,
+      96
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      368,
+      98
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

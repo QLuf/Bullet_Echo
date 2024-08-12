@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "vien",
+    "texture": "b11aa7ce-ea0e-4ef1-9a78-c471b22dc038",
+    "atlas": "",
+    "rect": [
+      1,
+      2,
+      156,
+      186
+    ],
+    "offset": [
+      -8,
+      -1
+    ],
+    "originalSize": [
+      174,
+      188
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

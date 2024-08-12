@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "building chua xay",
+    "texture": "ffdf2710-c87a-404d-8b3f-24e278b7f68d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      163,
+      103
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      163,
+      103
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

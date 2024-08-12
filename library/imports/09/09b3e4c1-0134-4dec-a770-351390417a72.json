@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "YellowFlower",
+    "texture": "c5b6e7b5-05d1-4578-87e0-a2c16b9cc531",
+    "atlas": "",
+    "rect": [
+      12,
+      39,
+      49,
+      26
+    ],
+    "offset": [
+      0.5,
+      -16
+    ],
+    "originalSize": [
+      72,
+      72
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "skill2_impact.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "chars_Kazetsu_anim_Skill2_B_1(7)": {
+      "__uuid__": "df189e53-d25f-4232-8898-fe4fe255e509"
+    },
+    "chars_Kazetsu_anim_Skill2_B_2(8)": {
+      "__uuid__": "ed72cd35-a1a7-4d14-96b8-528a9c206658"
+    },
+    "chars_Kazetsu_anim_Skill2_B_3(7)": {
+      "__uuid__": "eded811e-811e-4195-88e0-05d97fec827a"
+    },
+    "chars_Kazetsu_anim_Skill2_B_4(8)": {
+      "__uuid__": "ac23b232-0f39-4e64-88c0-fc430b8984ea"
+    }
+  }
+}

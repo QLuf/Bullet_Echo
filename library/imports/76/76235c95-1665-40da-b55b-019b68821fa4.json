@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "wall4",
+    "texture": "41cf99d8-723c-49db-be12-881ad43802ea",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      364,
+      396
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      364,
+      396
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

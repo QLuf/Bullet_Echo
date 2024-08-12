@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hinh tron to",
+    "texture": "80292947-6a09-4c77-a5cd-e3304b8d173f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      136,
+      135
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      136,
+      135
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

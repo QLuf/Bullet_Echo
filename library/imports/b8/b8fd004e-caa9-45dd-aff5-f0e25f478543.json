@@ -1,0 +1,7 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "levelup.skel.atlas",
+  "_objFlags": 0,
+  "_native": "",
+  "text": "\nlevelup.skel.png\nsize: 568, 568\nformat: RGBA8888\nfilter: Linear, Linear\nrepeat: none\nlevelup_popup\n  rotate: false\n  xy: 285, 319\n  size: 96, 86\n  orig: 96, 86\n  offset: 0, 0\n  index: -1\nmuzzle/ef_6_00000\n  rotate: false\n  xy: 2, 407\n  size: 281, 159\n  orig: 281, 159\n  offset: 0, 0\n  index: -1\nmuzzle/ef_6_0000001\n  rotate: false\n  xy: 2, 246\n  size: 281, 159\n  orig: 281, 159\n  offset: 0, 0\n  index: -1\nmuzzle/ef_6_0000002\n  rotate: false\n  xy: 285, 407\n  size: 281, 159\n  orig: 281, 159\n  offset: 0, 0\n  index: -1\nmuzzle/ef_6_0000003\n  rotate: false\n  xy: 2, 85\n  size: 281, 159\n  orig: 281, 159\n  offset: 0, 0\n  index: -1\n"
+}

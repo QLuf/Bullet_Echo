@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Hoa Vang",
+    "texture": "bef1033d-9507-4142-b830-dbb11158d53b",
+    "atlas": "",
+    "rect": [
+      12,
+      39,
+      49,
+      26
+    ],
+    "offset": [
+      0.5,
+      -16
+    ],
+    "originalSize": [
+      72,
+      72
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

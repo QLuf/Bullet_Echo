@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tree_dead_trunk",
+    "texture": "f735be0c-69d5-4436-85ad-e68df2c58d5a",
+    "atlas": "",
+    "rect": [
+      26,
+      144,
+      31,
+      25
+    ],
+    "offset": [
+      2,
+      -71.5
+    ],
+    "originalSize": [
+      79,
+      170
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

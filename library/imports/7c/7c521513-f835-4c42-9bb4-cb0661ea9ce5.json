@@ -1,0 +1,26 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "atk.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "char_Kazetsu_anim_attack_1(12)": {
+      "__uuid__": "5fad5595-7ec0-468e-bf31-26b3bcd8f5a0"
+    },
+    "char_Kazetsu_anim_attack_2(5)": {
+      "__uuid__": "4682c112-18c5-4211-9e19-50016668a3c1"
+    },
+    "char_Kazetsu_anim_attack_3(5)": {
+      "__uuid__": "4789595c-8c9c-412e-bea8-cd29a9a723fc"
+    },
+    "char_Kazetsu_anim_attack_4(8)": {
+      "__uuid__": "beddda57-bbc5-447e-a407-ad06def1b0f6"
+    },
+    "char_Kazetsu_anim_attack_5(8)": {
+      "__uuid__": "eea4454d-8aa2-4efd-8af7-0965fc3a34c9"
+    },
+    "char_Kazetsu_anim_attack_6(7)": {
+      "__uuid__": "5cf75a61-aae9-4a8d-84cd-b97a1093f102"
+    }
+  }
+}

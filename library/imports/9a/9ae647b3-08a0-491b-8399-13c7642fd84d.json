@@ -1,0 +1,20 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "fx_datvang.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "1(4)": {
+      "__uuid__": "92e6f309-db27-42ad-8592-cb43106bd5e8"
+    },
+    "2(4)": {
+      "__uuid__": "ac7cb092-c4ce-46b8-9cfe-b6c4cfdfc3a9"
+    },
+    "3(8)": {
+      "__uuid__": "c5e8d51a-eacd-4382-8748-d4909b8db4fa"
+    },
+    "4(8)": {
+      "__uuid__": "6a80cc6f-46ec-4135-b849-c58a05f4eba7"
+    }
+  }
+}

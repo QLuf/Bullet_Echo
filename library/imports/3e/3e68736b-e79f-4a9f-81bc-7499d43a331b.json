@@ -1,0 +1,32 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "mining.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "char_Kazetsu_anim_mining_1(7)": {
+      "__uuid__": "7c2462e8-bced-46b2-9e92-6fdf443838de"
+    },
+    "char_Kazetsu_anim_mining_2(7)": {
+      "__uuid__": "03ad0a25-b5c1-49fb-8494-50f458f0c333"
+    },
+    "char_Kazetsu_anim_mining_3(7)": {
+      "__uuid__": "7d466971-7309-4882-b3b3-8d550f0992b4"
+    },
+    "char_Kazetsu_anim_mining_4(7)": {
+      "__uuid__": "50cd4f24-30ba-4b71-8c49-aec5952dc50a"
+    },
+    "char_Kazetsu_anim_mining_5(9)": {
+      "__uuid__": "13da768e-2909-4bc4-99b0-4616c19b7ae4"
+    },
+    "char_Kazetsu_anim_mining_6(9)": {
+      "__uuid__": "b67de6a0-a873-4645-a9d1-9229480a5b71"
+    },
+    "char_Kazetsu_anim_mining_7(7)": {
+      "__uuid__": "4b3245fd-51c9-4cf4-bd9a-9260320b0f0e"
+    },
+    "char_Kazetsu_anim_mining_8(7)": {
+      "__uuid__": "fbb95364-5fd1-42c8-81ab-4039129a8a2e"
+    }
+  }
+}

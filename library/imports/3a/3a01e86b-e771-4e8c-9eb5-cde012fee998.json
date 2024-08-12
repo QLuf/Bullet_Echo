@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tuong nu than do vo",
+    "texture": "78d2c1a3-279a-4f59-bb6c-64b288202bb7",
+    "atlas": "",
+    "rect": [
+      0,
+      10,
+      199,
+      257
+    ],
+    "offset": [
+      0,
+      -5
+    ],
+    "originalSize": [
+      199,
+      267
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "effect_shoot_blue.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "bang0_effect_0": {
+      "__uuid__": "e96a3992-ca9f-476f-a507-29f8de0d0bda"
+    },
+    "bang0_effect_1": {
+      "__uuid__": "24616f86-ec3a-4de4-82f6-f2ad5bd2310e"
+    },
+    "bang0_effect_2": {
+      "__uuid__": "cba6f3da-4a78-4595-a383-42db70679598"
+    },
+    "bang0_effect_3": {
+      "__uuid__": "a8dd2ae6-378e-4524-9f3d-0c37f490fbac"
+    },
+    "bang0_effect_4": {
+      "__uuid__": "7ea9a30c-fc78-45bb-9597-1a28d2f33675"
+    },
+    "bang0_effect_5": {
+      "__uuid__": "5fd2a39f-d129-4849-ac93-413e291c232f"
+    },
+    "bang0_effect_6": {
+      "__uuid__": "196ea619-a417-4e11-84c5-45e531860b72"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "3008_Chimera_Fly.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "1(10)": {
+      "__uuid__": "8137e0b3-5c9c-430f-9365-f89fabb0e346"
+    },
+    "2(10)": {
+      "__uuid__": "e7368b09-4db1-42ea-bb9d-01bd27a60fdf"
+    },
+    "3(10)": {
+      "__uuid__": "60d2e162-1b6f-498a-ac6d-271a99f91f95"
+    },
+    "4(10)": {
+      "__uuid__": "f78afc12-eb1c-4d1d-bf10-b856af8a2dbd"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Bullet-Blocker-1",
+    "texture": "889b35c9-7015-4f30-b884-8ecc17639d94",
+    "atlas": "",
+    "rect": [
+      13,
+      0,
+      67,
+      66
+    ],
+    "offset": [
+      2,
+      2
+    ],
+    "originalSize": [
+      89,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

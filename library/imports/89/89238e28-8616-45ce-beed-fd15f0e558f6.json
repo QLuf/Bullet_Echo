@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "map_larva",
+    "texture": "9c0907ab-077e-4020-8610-6a1742d76bec",
+    "atlas": "",
+    "rect": [
+      5,
+      0,
+      5115,
+      2556
+    ],
+    "offset": [
+      2.5,
+      2
+    ],
+    "originalSize": [
+      5120,
+      2560
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

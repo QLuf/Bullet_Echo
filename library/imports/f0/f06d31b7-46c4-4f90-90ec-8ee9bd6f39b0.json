@@ -1,0 +1,32 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "knife_impact.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "0001 shot": {
+      "__uuid__": "b2a32bec-3b7e-4fe9-aa0c-9c3799ca39ce"
+    },
+    "0002 shot": {
+      "__uuid__": "81b4e977-49bc-4216-985a-ed0c06d177b7"
+    },
+    "0003 shot": {
+      "__uuid__": "83059c82-2af4-499e-aac5-6e32f39b09e8"
+    },
+    "0004 shot": {
+      "__uuid__": "0ab2523c-80e3-4ed3-a1ff-91e1f8956c66"
+    },
+    "0005 shot": {
+      "__uuid__": "2b83d457-22cc-44d8-913f-47d9285d54c0"
+    },
+    "0006 shot": {
+      "__uuid__": "76ff30e4-3e97-4fd7-8f7b-8d27c1e19359"
+    },
+    "0007 shot": {
+      "__uuid__": "dc6a8963-9ca6-4f30-92a7-612544a484e6"
+    },
+    "0008 shot": {
+      "__uuid__": "ac328590-b7f4-4449-bb0c-fe4de7f75344"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Lock-NE-GroundTile",
+    "texture": "99409446-539b-4b89-aa25-aec7786cc472",
+    "atlas": "",
+    "rect": [
+      5,
+      39,
+      60,
+      29
+    ],
+    "offset": [
+      -1,
+      -17.5
+    ],
+    "originalSize": [
+      72,
+      72
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

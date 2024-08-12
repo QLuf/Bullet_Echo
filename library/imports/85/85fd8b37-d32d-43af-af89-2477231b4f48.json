@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "golem_tower_lv4_celestial_fx",
+    "texture": "4d0e7a84-f408-47a2-b487-54cf0b19e53a",
+    "atlas": "",
+    "rect": [
+      3,
+      0,
+      993,
+      436
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      1000,
+      436
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

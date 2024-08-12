@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "statue_broken",
+    "texture": "5fb711a0-0329-42cf-be5a-a88600d0e31f",
+    "atlas": "",
+    "rect": [
+      0,
+      109,
+      199,
+      158
+    ],
+    "offset": [
+      0,
+      -54.5
+    ],
+    "originalSize": [
+      199,
+      267
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

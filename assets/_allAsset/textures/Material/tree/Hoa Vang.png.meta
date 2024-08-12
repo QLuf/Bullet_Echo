@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "bef1033d-9507-4142-b830-dbb11158d53b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 72,
+  "height": 72,
+  "platformSettings": {},
+  "subMetas": {
+    "Hoa Vang": {
+      "ver": "1.0.4",
+      "uuid": "76681efa-0352-4eff-93c6-0acc55803104",
+      "rawTextureUuid": "bef1033d-9507-4142-b830-dbb11158d53b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": -16,
+      "trimX": 12,
+      "trimY": 39,
+      "width": 49,
+      "height": 26,
+      "rawWidth": 72,
+      "rawHeight": 72,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

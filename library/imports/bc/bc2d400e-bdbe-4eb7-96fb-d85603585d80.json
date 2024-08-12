@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chunk2_2",
+    "texture": "8eb67561-c334-4306-bd1d-297bf2fbf66c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1480,
+      1440
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1480,
+      1440
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

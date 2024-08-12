@@ -1,0 +1,95 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "skill_06_lightning.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "0001 shot": {
+      "__uuid__": "34b1741d-2330-4eae-b13e-beea949b30a1"
+    },
+    "0002 shot": {
+      "__uuid__": "4e1eaa3c-f08f-4850-a5cb-9d9b767d5e67"
+    },
+    "0003 shot": {
+      "__uuid__": "126b25d7-d1f5-4231-a2a7-9d6ab2111c90"
+    },
+    "0004 shot": {
+      "__uuid__": "92cb9c69-4196-4a2d-b42c-b1833bb828fc"
+    },
+    "0005 shot": {
+      "__uuid__": "133a7261-6123-4744-8d24-0281d112606e"
+    },
+    "0006 shot": {
+      "__uuid__": "0a43ca24-6e40-4f7a-b7bd-bb18449c64c7"
+    },
+    "0007 shot": {
+      "__uuid__": "4330e470-dc77-4777-bd28-9d25f6920249"
+    },
+    "0008 shot": {
+      "__uuid__": "f2d7aae0-12af-4cc5-aff3-b6b088b75192"
+    },
+    "0009 shot": {
+      "__uuid__": "6e866e2b-13b7-4608-8905-d793f22b1b49"
+    },
+    "0010 shot": {
+      "__uuid__": "ab4a4c08-d794-42a2-a2a7-d3f43f2998a5"
+    },
+    "0011 shot": {
+      "__uuid__": "c2bdfce6-feea-490f-b17f-b8248a45aba2"
+    },
+    "0012 shot": {
+      "__uuid__": "0f2dd8f9-f931-410e-897b-390f1d1ab690"
+    },
+    "0014 shot": {
+      "__uuid__": "99f847d2-9e6c-4892-9186-119701f4211e"
+    },
+    "0016 shot": {
+      "__uuid__": "f1a17a64-a712-4bca-9212-bd6a594fc39c"
+    },
+    "0018 shot": {
+      "__uuid__": "97fe2d2d-0938-4fae-9aba-6673b8076de2"
+    },
+    "0020 shot": {
+      "__uuid__": "f6cb4447-4845-481a-9a73-81d5b0e5a962"
+    },
+    "0022 shot": {
+      "__uuid__": "03187568-36da-4867-87da-666c7f34581b"
+    },
+    "0024 shot": {
+      "__uuid__": "9ee74b1b-57c2-40ed-ae4d-ff2917fee6c4"
+    },
+    "0026 shot": {
+      "__uuid__": "5b187ecb-39ab-43bc-a019-e4583b48bc1f"
+    },
+    "0028 shot": {
+      "__uuid__": "95cab6f1-6137-43f9-8984-c2663e3f4bad"
+    },
+    "0030 shot": {
+      "__uuid__": "57c9ac20-a891-40c0-88a8-0cd6db2d013c"
+    },
+    "0032 shot": {
+      "__uuid__": "23a13daf-ac14-49eb-81f9-e2d147faa3df"
+    },
+    "0034 shot": {
+      "__uuid__": "4bfb2768-6ea7-449a-a2ba-0e36d39ee625"
+    },
+    "0036 shot": {
+      "__uuid__": "5261e12b-ead9-440e-88d7-ead27047add8"
+    },
+    "0038 shot": {
+      "__uuid__": "95b7dfc6-0629-4e5f-a621-7f51fddd0c29"
+    },
+    "0040 shot": {
+      "__uuid__": "437d204a-da26-4682-a386-dd73d7adf55a"
+    },
+    "0042 shot": {
+      "__uuid__": "6cd9ade5-2cda-44c7-b55f-b529cbcb2e46"
+    },
+    "0044 shot": {
+      "__uuid__": "5a37474c-0a88-4238-80df-e7573f39f0e4"
+    },
+    "0046 shot": {
+      "__uuid__": "05e6f4db-e368-4af0-867f-2418af833fc3"
+    }
+  }
+}

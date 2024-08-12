@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Lock-SW-GroundTile",
+    "texture": "8ff35698-555d-4b55-8be4-46584bdffe50",
+    "atlas": "",
+    "rect": [
+      11,
+      36,
+      56,
+      27
+    ],
+    "offset": [
+      3,
+      -13.5
+    ],
+    "originalSize": [
+      72,
+      72
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

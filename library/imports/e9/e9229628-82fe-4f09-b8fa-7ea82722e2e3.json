@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "trail2",
+    "texture": "3d0aaf3d-0f2e-4d25-b12c-4a073fb127af",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      48,
+      24
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      48,
+      24
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

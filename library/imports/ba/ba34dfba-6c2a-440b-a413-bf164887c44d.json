@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "greend_crystal",
+    "texture": "57943777-8e7a-4c3c-902b-0c9050eb2da4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      67,
+      71
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      67,
+      71
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

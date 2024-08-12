@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "eff_glow_purple",
+    "texture": "61c5d9cf-55ab-4671-b4e8-d42a62fa2ed4",
+    "atlas": "",
+    "rect": [
+      4,
+      3,
+      121,
+      122
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      128,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

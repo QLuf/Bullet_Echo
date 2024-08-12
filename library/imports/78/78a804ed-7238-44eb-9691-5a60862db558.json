@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Plains-Sliced-10",
+    "texture": "a36b43f9-4760-41d0-8ab9-5b586c8a4c5c",
+    "atlas": "",
+    "rect": [
+      7,
+      4,
+      60,
+      62
+    ],
+    "offset": [
+      1,
+      1
+    ],
+    "originalSize": [
+      72,
+      72
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

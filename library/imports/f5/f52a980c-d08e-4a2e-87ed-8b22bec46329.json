@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mage_tower_lv4_enchantress_ball",
+    "texture": "176f8f6d-4c49-4a9d-a618-6d1c694e4abf",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      88,
+      502
+    ],
+    "offset": [
+      -20,
+      5
+    ],
+    "originalSize": [
+      128,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

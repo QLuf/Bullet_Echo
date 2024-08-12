@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "char_Kazetsu_anim_attack_4(8)",
+    "texture": "e4dcc7c6-4273-40b8-9232-dc3b80d54bd3",
+    "atlas": "7c521513-f835-4c42-9bb4-cb0661ea9ce5",
+    "rect": [
+      0,
+      204,
+      88,
+      68
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      88,
+      68
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

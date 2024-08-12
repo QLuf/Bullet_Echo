@@ -1,0 +1,7 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "Eff_Ability_SlashSword_Iron_Violet.atlas",
+  "_objFlags": 0,
+  "_native": "",
+  "text": "\nEff_Ability_SlashSword_Iron_Violet.png\nsize: 388, 388\nformat: RGBA8888\nfilter: Linear, Linear\nrepeat: none\nBullet_GuangJian_Purple_01\n  rotate: false\n  xy: 0, 260\n  size: 128, 128\n  orig: 128, 128\n  offset: 0, 0\n  index: -1\nBullet_GuangJian_Purple_02\n  rotate: false\n  xy: 0, 130\n  size: 128, 128\n  orig: 128, 128\n  offset: 0, 0\n  index: -1\nBullet_GuangJian_Purple_03\n  rotate: false\n  xy: 130, 260\n  size: 128, 128\n  orig: 128, 128\n  offset: 0, 0\n  index: -1\nBullet_GuangJian_Yellow_01\n  rotate: false\n  xy: 0, 0\n  size: 128, 128\n  orig: 128, 128\n  offset: 0, 0\n  index: -1\nBullet_GuangJian_Yellow_02\n  rotate: false\n  xy: 130, 130\n  size: 128, 128\n  orig: 128, 128\n  offset: 0, 0\n  index: -1\nBullet_GuangJian_Yellow_03\n  rotate: false\n  xy: 260, 260\n  size: 128, 128\n  orig: 128, 128\n  offset: 0, 0\n  index: -1\n"
+}

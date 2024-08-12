@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "WWJ_atk_1_ep05",
+    "texture": "6b3b6848-16cc-4161-9336-0f9a34e8d112",
+    "atlas": "d8a9798e-69e5-4cd2-973a-ef09a9ecd3ab",
+    "rect": [
+      524,
+      0,
+      131,
+      198
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      131,
+      198
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

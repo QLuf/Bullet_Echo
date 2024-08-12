@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Co Dam",
+    "texture": "a8fb0e7e-41d8-43eb-9af0-76f591778851",
+    "atlas": "",
+    "rect": [
+      10,
+      39,
+      53,
+      25
+    ],
+    "offset": [
+      0.5,
+      -15.5
+    ],
+    "originalSize": [
+      72,
+      72
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

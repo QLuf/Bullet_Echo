@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Bar_stomach_empty",
+    "texture": "06664ab6-a315-47c0-84e7-f054fd2e6758",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      68,
+      15
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      68,
+      15
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

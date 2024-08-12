@@ -1,0 +1,17 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "fx_bullet.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "rocket00": {
+      "__uuid__": "0acd730e-9aec-4d79-99f4-9a1dad03a997"
+    },
+    "rocket01": {
+      "__uuid__": "f5a2ccd3-9d9d-4efc-8cdb-cb78b2600542"
+    },
+    "rocket02": {
+      "__uuid__": "fa37e98c-2646-4ec7-9972-de437263d569"
+    }
+  }
+}

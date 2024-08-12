@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ice_storm_gate_01_flip",
+    "texture": "0536a917-32de-4116-abc8-e998f8bd668d",
+    "atlas": "",
+    "rect": [
+      0,
+      32,
+      192,
+      128
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      192,
+      192
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

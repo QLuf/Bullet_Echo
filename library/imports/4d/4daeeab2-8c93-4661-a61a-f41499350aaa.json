@@ -1,0 +1,32 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "chop.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "1(8)": {
+      "__uuid__": "874c3420-166e-4e5c-9493-7da2f7427cdc"
+    },
+    "2(8)": {
+      "__uuid__": "1dd9b84b-f7cd-4035-a408-fe3fde27ceea"
+    },
+    "3(3)": {
+      "__uuid__": "42bc886d-242d-47ab-bfd7-a8a37868b524"
+    },
+    "4(5)": {
+      "__uuid__": "77d00760-b719-4a30-b16b-66c29413f40e"
+    },
+    "5(5)": {
+      "__uuid__": "95fe0067-920d-40f7-b95e-72436bb585ce"
+    },
+    "6(3)": {
+      "__uuid__": "e11e9223-d8cd-4c55-bebf-6595e81e8dd2"
+    },
+    "7(8)": {
+      "__uuid__": "984e4ddd-977e-4fb9-8b7b-52622e6a8adf"
+    },
+    "8(8)": {
+      "__uuid__": "80f270f9-12a1-4ca4-82f3-ee38a6c78ed6"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ice_storm_01_on",
+    "texture": "c445c954-71bf-490c-88bf-14f8da487fbd",
+    "atlas": "",
+    "rect": [
+      0,
+      32,
+      192,
+      128
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      192,
+      192
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

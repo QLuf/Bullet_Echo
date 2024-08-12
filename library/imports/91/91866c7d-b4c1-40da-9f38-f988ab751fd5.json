@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "cay_xanh_3",
+    "texture": "4b84067b-769e-44d8-83ca-c66421e9e7a7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      70,
+      80
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      70,
+      80
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "idle.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "idle00": {
+      "__uuid__": "44e95abc-a6ce-41e2-a626-b80d40567460"
+    },
+    "idle01": {
+      "__uuid__": "f26b36bd-2f0e-4d95-ad1c-cd7e73519c8f"
+    },
+    "idle02": {
+      "__uuid__": "66af858e-29e9-4e17-80d3-1637b01c5151"
+    },
+    "idle03": {
+      "__uuid__": "9e47cf8b-0cdf-4cf7-8a54-5cf53b304f4e"
+    },
+    "idle04": {
+      "__uuid__": "50124a5c-78f1-4c8d-82fd-c145622dbb1f"
+    }
+  }
+}

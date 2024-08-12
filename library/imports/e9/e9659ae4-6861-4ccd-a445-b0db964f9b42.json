@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "health_icon",
+    "texture": "4c71b54c-89f2-4611-8a7f-dcafdeb1d3c6",
+    "atlas": "",
+    "rect": [
+      74,
+      42,
+      110,
+      100
+    ],
+    "offset": [
+      15,
+      -15.5
+    ],
+    "originalSize": [
+      228,
+      153
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

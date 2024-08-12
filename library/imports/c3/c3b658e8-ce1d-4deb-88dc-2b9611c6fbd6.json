@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Bar_Currency",
+    "texture": "47b78861-d4f1-43f5-80cf-f44df562b45e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      210,
+      60
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      210,
+      60
+    ],
+    "capInsets": [
+      25,
+      25,
+      25,
+      25
+    ]
+  }
+}

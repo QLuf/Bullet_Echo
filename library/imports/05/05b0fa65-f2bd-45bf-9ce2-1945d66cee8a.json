@@ -1,0 +1,26 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "skill1.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "1(10)": {
+      "__uuid__": "749754de-89cc-4a1a-880c-541da841489b"
+    },
+    "2(10)": {
+      "__uuid__": "e0d1d2d3-623c-4ba2-9d8e-74d7148e3bd6"
+    },
+    "3(12)": {
+      "__uuid__": "6ea62afd-56ef-4e42-bf10-2a85c7506e2f"
+    },
+    "4(36)": {
+      "__uuid__": "3c0fff33-f391-4288-b213-19d893f4d049"
+    },
+    "5(42)": {
+      "__uuid__": "aa89825f-a0c8-40c7-9cd9-4d2525a899eb"
+    },
+    "6(10)": {
+      "__uuid__": "c53cab1c-494c-447e-8fa7-0ae9b4679b3c"
+    }
+  }
+}

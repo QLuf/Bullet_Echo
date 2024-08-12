@@ -1,0 +1,17 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "entrance.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "dungeonEntrance 1": {
+      "__uuid__": "1d1f379c-fda5-4058-96b8-795b334bde6e"
+    },
+    "dungeonEntrance 2": {
+      "__uuid__": "c50ffaf5-5395-4fb6-99c0-ea9cb3effa2a"
+    },
+    "dungeonEntrance 3": {
+      "__uuid__": "8b62376b-2561-4ce8-9b69-7acc2bd31dc7"
+    }
+  }
+}

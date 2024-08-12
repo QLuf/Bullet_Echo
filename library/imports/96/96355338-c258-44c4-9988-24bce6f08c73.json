@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mui ten",
+    "texture": "1bbc2395-bb2a-45f3-987b-c94674b3d6a3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      41,
+      47
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      41,
+      47
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

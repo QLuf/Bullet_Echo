@@ -1,0 +1,17 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "close_card2",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0,
+  "sample": 60,
+  "speed": 0.6,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "scale": [],
+      "position": []
+    }
+  },
+  "events": []
+}

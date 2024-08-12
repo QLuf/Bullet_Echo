@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "barred",
+    "texture": "9056ba4a-eb50-4cab-8b80-1c471e6b0323",
+    "atlas": "",
+    "rect": [
+      20,
+      18,
+      329,
+      62
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      368,
+      98
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

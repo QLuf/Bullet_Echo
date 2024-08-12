@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "barbgRed",
+    "texture": "100bee78-aefb-4fb1-9644-bcca7427fbdd",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      366,
+      98
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      368,
+      98
+    ],
+    "capInsets": [
+      34,
+      0,
+      34,
+      0
+    ]
+  }
+}

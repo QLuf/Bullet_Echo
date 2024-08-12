@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Resources đá xanh_big_ON",
+    "texture": "12d8a401-7ea5-4b30-b2af-9a51ae93a7a7",
+    "atlas": "",
+    "rect": [
+      7,
+      3,
+      60,
+      63
+    ],
+    "offset": [
+      1,
+      1.5
+    ],
+    "originalSize": [
+      72,
+      72
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

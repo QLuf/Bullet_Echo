@@ -1,0 +1,32 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "chop.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "char_Kazetsu_anim_chop_1(7)": {
+      "__uuid__": "7085da33-ca56-4b6e-b1e6-91e26c723397"
+    },
+    "char_Kazetsu_anim_chop_2(7)": {
+      "__uuid__": "75ec4d47-9e72-48c9-a794-f4da92fd05f2"
+    },
+    "char_Kazetsu_anim_chop_3(7)": {
+      "__uuid__": "ade62026-3ddd-41e4-bea9-5f1bdb915a3c"
+    },
+    "char_Kazetsu_anim_chop_4(7)": {
+      "__uuid__": "667aa722-ed9a-40f1-a676-851739cc1381"
+    },
+    "char_Kazetsu_anim_chop_5(9)": {
+      "__uuid__": "dfd1937d-6c4d-4207-8902-2e6d38ff423a"
+    },
+    "char_Kazetsu_anim_chop_6(9)": {
+      "__uuid__": "65ebef9c-6726-4b5b-8ee1-62cf649036c5"
+    },
+    "char_Kazetsu_anim_chop_7(7)": {
+      "__uuid__": "1cb5fd70-111a-4973-a643-3049eb8d8dff"
+    },
+    "char_Kazetsu_anim_chop_8(7)": {
+      "__uuid__": "814195bc-0a18-4569-a1dd-b9ab17e60124"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+
+levelup.skel.png
+size: 568, 568
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+levelup_popup
+  rotate: false
+  xy: 285, 319
+  size: 96, 86
+  orig: 96, 86
+  offset: 0, 0
+  index: -1
+muzzle/ef_6_00000
+  rotate: false
+  xy: 2, 407
+  size: 281, 159
+  orig: 281, 159
+  offset: 0, 0
+  index: -1
+muzzle/ef_6_0000001
+  rotate: false
+  xy: 2, 246
+  size: 281, 159
+  orig: 281, 159
+  offset: 0, 0
+  index: -1
+muzzle/ef_6_0000002
+  rotate: false
+  xy: 285, 407
+  size: 281, 159
+  orig: 281, 159
+  offset: 0, 0
+  index: -1
+muzzle/ef_6_0000003
+  rotate: false
+  xy: 2, 85
+  size: 281, 159
+  orig: 281, 159
+  offset: 0, 0
+  index: -1

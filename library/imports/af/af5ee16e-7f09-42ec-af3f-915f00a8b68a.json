@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "SKILL1_Anim_MonkeyKing08",
+    "texture": "26edef6f-0d87-4638-a1f5-98b8608ce605",
+    "atlas": "d6c3ccdf-a4af-48a3-be3c-725e6a3dfa8c",
+    "rect": [
+      1,
+      1,
+      700,
+      700
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      700,
+      700
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

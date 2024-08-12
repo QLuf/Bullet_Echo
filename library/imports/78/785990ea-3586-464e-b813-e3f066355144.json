@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "victory",
+    "texture": "1edf7421-fbe0-4f56-9b2e-521a617cee3b",
+    "atlas": "",
+    "rect": [
+      6,
+      0,
+      537,
+      123
+    ],
+    "offset": [
+      3,
+      0
+    ],
+    "originalSize": [
+      543,
+      123
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "fly.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "1(6)": {
+      "__uuid__": "c58a3c71-7ed5-49c7-8e47-9c337b678251"
+    },
+    "2(6)": {
+      "__uuid__": "9e1c5257-5f0d-4647-a740-fc22ddb6fa59"
+    },
+    "3(6)": {
+      "__uuid__": "a80306b7-f8ac-4ef9-a00c-79033d388b55"
+    }
+  }
+}

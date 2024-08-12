@@ -1,0 +1,20 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "gacha.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "1": {
+      "__uuid__": "38d753c6-74e8-405f-8027-3f1d627bec77"
+    },
+    "2": {
+      "__uuid__": "485f6d11-acf1-465c-bdfa-795dc1212d2f"
+    },
+    "3": {
+      "__uuid__": "28414812-1470-4f57-8626-aab78fcf2033"
+    },
+    "4": {
+      "__uuid__": "6d6a2db5-d332-4f48-9452-496e21213d32"
+    }
+  }
+}

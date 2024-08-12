@@ -1,0 +1,174 @@
+
+golem_tower_lv4_celestial_fx.png
+size: 1000,436
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+aura (160)
+  rotate: false
+  xy: 0, 182
+  size: 254, 254
+  orig: 256, 256
+  offset: 1, 2
+  index: -1
+down/2
+  rotate: false
+  xy: 256, 88
+  size: 226, 167
+  orig: 241, 246
+  offset: 12, 0
+  index: -1
+down/3
+  rotate: false
+  xy: 499, 263
+  size: 241, 173
+  orig: 241, 246
+  offset: 0, 0
+  index: -1
+down/4
+  rotate: false
+  xy: 0, 1
+  size: 241, 179
+  orig: 241, 246
+  offset: 0, 0
+  index: -1
+down/5
+  rotate: false
+  xy: 256, 257
+  size: 241, 179
+  orig: 241, 246
+  offset: 0, 0
+  index: -1
+down/6
+  rotate: false
+  xy: 742, 261
+  size: 235, 175
+  orig: 241, 246
+  offset: 3, 0
+  index: -1
+down/7
+  rotate: false
+  xy: 399, 5
+  size: 147, 81
+  orig: 241, 246
+  offset: 50, 48
+  index: -1
+eff_light_rock
+  rotate: false
+  xy: 595, 157
+  size: 137, 104
+  orig: 137, 104
+  offset: 0, 0
+  index: -1
+fx_char_mark
+  rotate: false
+  xy: 915, 30
+  size: 82, 87
+  orig: 102, 102
+  offset: 10, 9
+  index: -1
+r3
+  rotate: false
+  xy: 639, 3
+  size: 33, 32
+  orig: 33, 33
+  offset: 0, 1
+  index: -1
+skill/10
+  rotate: false
+  xy: 863, 155
+  size: 113, 104
+  orig: 113, 166
+  offset: 0, 28
+  index: -1
+skill/11
+  rotate: false
+  xy: 724, 82
+  size: 97, 64
+  orig: 113, 166
+  offset: 3, 28
+  index: -1
+skill/2
+  rotate: true
+  xy: 785, 8
+  size: 72, 37
+  orig: 113, 166
+  offset: 17, 124
+  index: -1
+skill/3
+  rotate: false
+  xy: 639, 37
+  size: 63, 36
+  orig: 113, 166
+  offset: 25, 123
+  index: -1
+skill/4
+  rotate: false
+  xy: 914, 119
+  size: 58, 34
+  orig: 113, 166
+  offset: 28, 122
+  index: -1
+skill/5
+  rotate: false
+  xy: 548, 80
+  size: 45, 26
+  orig: 113, 166
+  offset: 28, 125
+  index: -1
+skill/6
+  rotate: true
+  xy: 595, 75
+  size: 80, 127
+  orig: 113, 166
+  offset: 12, 31
+  index: -1
+skill/7
+  rotate: true
+  xy: 243, 5
+  size: 81, 154
+  orig: 113, 166
+  offset: 13, 12
+  index: -1
+skill/8
+  rotate: false
+  xy: 484, 108
+  size: 109, 147
+  orig: 113, 166
+  offset: 2, 19
+  index: -1
+skill/9
+  rotate: true
+  xy: 734, 148
+  size: 111, 127
+  orig: 113, 166
+  offset: 1, 23
+  index: -1
+skill/g1
+  rotate: true
+  xy: 724, 0
+  size: 80, 59
+  orig: 113, 166
+  offset: 11, 3
+  index: -1
+skill/g2
+  rotate: false
+  xy: 548, 8
+  size: 89, 65
+  orig: 113, 166
+  offset: 7, 0
+  index: -1
+skill/g3
+  rotate: false
+  xy: 823, 83
+  size: 89, 63
+  orig: 113, 166
+  offset: 7, 1
+  index: -1
+skill/g4
+  rotate: false
+  xy: 824, 18
+  size: 89, 63
+  orig: 113, 166
+  offset: 7, 1
+  index: -1

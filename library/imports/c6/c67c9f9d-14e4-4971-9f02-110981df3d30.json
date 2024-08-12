@@ -1,0 +1,26 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "move.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "_0000_WW_move_6_0000__0000_WW_move_0": {
+      "__uuid__": "9537aed0-31ec-4316-8ea2-41fcc31dabd9"
+    },
+    "_0000_WW_move_6_0001__0001_WW_move_1": {
+      "__uuid__": "573699a0-9cc1-4b10-9646-e6dc37e8b70b"
+    },
+    "_0000_WW_move_6_0002__0002_WW_move_2": {
+      "__uuid__": "07086d02-36cd-4f9c-9a02-1b58eba47e6e"
+    },
+    "_0000_WW_move_6_0003__0003_WW_move_3": {
+      "__uuid__": "879f38ec-5606-4986-9a55-1ebcd62bcaa2"
+    },
+    "_0000_WW_move_6_0004__0004_WW_move_4": {
+      "__uuid__": "18a431c9-1205-43f0-b061-968063d355f3"
+    },
+    "_0000_WW_move_6_0005__0005_WW_move_5": {
+      "__uuid__": "b1b66f44-f671-4d76-8834-d0c127a122dc"
+    }
+  }
+}

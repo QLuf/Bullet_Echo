@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "char_Kazetsu_anim_chop_7(7)",
+    "texture": "11adc87f-b50e-4f2b-85ca-477e77923a35",
+    "atlas": "4e808c3d-90ef-4194-9f45-459d06b7bf68",
+    "rect": [
+      600,
+      0,
+      100,
+      70
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      100,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
